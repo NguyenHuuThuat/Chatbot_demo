@@ -1,0 +1,1462 @@
+{
+    "intents": [
+        {
+            "tag": "Điều kiện nhận bằng tốt nghiệp là gì?",
+            "patterns": [
+                "Các điều kiện để ra trường ?",
+                "Chuẩn đầu ra tốt nghiệp của Trường có khó không? Em nghe nói, ở Duy Tân vào thì dễ nhưng ra thì rất khó.",
+                "Điều kiện để ra trường và nhận bằng tốt nghiệp ?",
+                "Ra trường ở DTU có khó khong ạ?"
+            ],
+            "responses": [
+                "Những sinh viên hội đủ các điều kiện sau đây thì được xét công nhận tốt nghiệp theo từng ngành đào tạo:\n- Cho đến thời điểm xét công nhận tốt nghiệp không bị truy cứu trách nhiệm hình\nsự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập.\n- Tích lũy đủ số học phần được đánh giá đạt theo quy định của chương trình đào\ntạo tương ứng.\n- Có điểm trung bình chung tích lũy toàn khóa học đạt từ 2.00 trở lên.\n- Được đánh giá đạt trong kỳ thi hay đồ án tốt nghiệp.\n- Có chứng chỉ giáo dục quốc phòng, thể chất và đánh giá đạt trong kỳ khảo sát\ntiếng Anh, tin học của trường.\nKhảo sát Anh văn Tin học đầu ra chỉ yêu cầu với hệ Đại học.\n( https://hssv.duytan.edu.vn/Home/ArticleDetail/vn/163/1900 )"
+            ]
+        },
+        {
+            "tag": "Điều kiện để được làm capstone là gì?",
+            "patterns": [
+                "Làm thế nào để chọn và đăng ký đề tài đồ án tốt nghiệp?",
+                "Giới thiệu capstone 1 và Capstone 2",
+                "đồ án Cap 1 hoặc cap2 thì em có được tự chọn mentor không ạ hay là được sự sắp xếp của trường?",
+                "Cap1 có cần nộp tiền không ?",
+                "Capstone 1 và capstone 2 tổ chức thế nào ?",
+                "Cap1 khác gì cap 2",
+                "So sánh capstone 1 và Capstone 2"
+            ],
+            "responses": [
+                "Điều kiện ra trường mỗi ngành sẽ có môn tiên quyết khác nhau, yêu cầu PHẢI hoàn thành môn tiến quyết trước khi đăng ký capstone 1:\nChương trình CMU . \n1. Điều kiện tiên quyết:\nCapstone 1: bao gồm các môn tiên quyết sau:\n- Ngành SE (TPM) : Software Project Management (CMU-IS 432) , Requirements Engineering (CMU-SE 214) , Software Testing (Verification & Validation) (CMU-SE 303) [hoặc Software Measurements & Analysis (CMU-CS 462)]\n- Ngành IS (TTT) :   Fundamentals of Computing 2 (CMU-CS 316) , Software Project Management (CMU-IS 432) , Requirements Engineering (CMU-SE 214) , Software Testing (Verification & Validation) (CMU-SE 303) [hoặc Software Measurements & Analysis (CMU-CS 462)]\nCapstone 2: với điều kiện tiên quyết là hoàn thành capstone 1\n\n2. Cách tổ chức:\nCapstone 1: Các sinh viên sẽ được chia theo điểm gpa thành các nhóm từ 3-4 sinh viên, với mỗi mentor mỗi nhóm đễ hướng dẫn sinh viên hoàn thiện ĐATN\nCapstone 2: Sinh viên sẽ tự chọn các nhóm, mỗi nhóm một mentor hướng dẫn\n\n3: Tiêu chí chấm: sẽ có nhiều tiêu chí khác nhau, nhưng khác biệt chính giữa cap1 và cap2 ở, phần trăm đánh giá sán phẩm và tài liệu\nCapstone 1: Tài liệu và sản phẩm tỉ lệ lần lượt là 60%/40% số điểm\nCapstone 2: Tài liệu và sản phẩm tỉ lệ lần lượt là 50%/50% số điểm\n\n4. Thanh toán:\nCapstone 1: sẽ tính như một môn học vì vậy, các em chỉ cần đăng ký\nCapstone 2: các em cần nộp lệ phí BẢO VỆ KHÓA LUẬN , chi tiết trong đường dẫn dưới đây\n( https://is.duytan.edu.vn/announcements/quyet-dinh-vv-ban-hanh-muc-thu-le-phi-datn-bv )\nĐây chỉ là tổng quan về capstone 1 và capstone 2, nên có điều gì thắc mắc hay sai sót em có thể liên hệ mentor hoặc CVHT\nCách để làm và thông tin tham khảo link sau:\nhttps://kdtqt.duytan.edu.vn/Home/ArticleDetail/vn/40/167/huong-dan-du-an-capstone-phan-1 \nhttps://kdtqt.duytan.edu.vn/Home/ArticleDetail/vn/40/166/hoc-trong-du-an-capstone-bai-2"
+            ]
+        },
+        {
+            "tag": "Sinh viên CMU có cần thi tin học không ?",
+            "patterns": [
+                "Làm sao để miễn tin học ?",
+                "CNPM có cần thi tin học đàu ra không ?",
+                "những chứng chỉ nào để bỏ qua đầu ra tin học ?"
+            ],
+            "responses": [
+                "Để tốt nghiệp các tất cả sinh viên phải hoàn thành các chứng chỉ giáo dục quốc phòng, thể chất và đánh giá đạt trong kỳ khảo sát\ntiếng Anh, tin học của trường trong đó:\nTin học:\n** Thi khảo sát Tin học đầu ra: 1 năm tổ chức 4 đợt, không ôn thi chỉ đăng ký thi.\nCách đăng ký: nộp lệ phí thi khảo sát tại phòng KHTC (137 Nguyễn Văn Linh)\nNếu không muốn thi khảo sát thì có các cách sau để miễn khảo sát:\n- Có chứng chỉ do trường ĐH Duy Tân cấp gồm: chứng chỉ kỹ thuật viên tin học,\nchứng chỉ ứng dụng CNTT nâng cao theo quy định tại thông tư 03/2014/TT-BTTTT.\nSinh viên tham khảo thông tin tại: http://tttinhoc.duytan.edu.vn/\n- Hoặc có Chứng chỉ MOS (ít nhất đạt 3 kỹ năng: Word, Excel, Powerpoint);\nChứng nhận IP, AP, FE do bộ Khoa học và Công nghệ cấp. Sinh viên tham khảo thông\ntin tại: http://ltc.org.vn/ hoặc: https://www.facebook.com/ltcdtu\n- Hoặc có bằng Trung cấp Tin học trở lên;\n - Hoặc sinh viên ngành IT như CMU, khoa học máy tính hay CNPM\nĐề cương tham khảo: https://kdtqt.duytan.edu.vn/Home/ArticleDetail/vn/40/6450"
+            ]
+        },
+        {
+            "tag": "Khi nào học quân sự ?",
+            "patterns": [
+                "khóa tụi em chuẩn bị học quân sự tới đây đúng không ạ. tại có nhiều tin không rõ quá nên em nhắn cô thử ạ?",
+                "Học quân sự ở nơi nào ạ?",
+                "Làm sao đăng ký học quân sự ạ?",
+                "Học phí của kỳ học quân sự bao nhiêu ạ?"
+            ],
+            "responses": [
+                "Mỗi kỳ hè trường sẽ tổ chức dạy và học môn GDQP-AN, mỗi đợt sẽ có các khoa khác nhau tham gia. Chia làm 2 khối xen kẽ học Lý thuyết và Thực hành:\nMỗi kỳ sẽ tổ chức trong vòng 1 tháng. Chi tiết về\nLý thuyết: Học Online thông qua tài khoản Zoom, Thi tập trung tại các phòng\nhọc Khu 3,5ha Hòa Khánh nam (lịch học, lịch thi và tài khoản học chi tiết cập nhật sau)\nThực hành: Học trực tiếp tại 2 cơ sở của Trung tâm GDQP – AN, Trường ĐH.\nThể dục Thể thao (lịch học, lịch thi chi tiết cập nhật sau)\n- Cơ sở Trung tâm GDQPAN: số 122 đường Hoàng Minh Thảo, phường Hòa\nKhánh Nam, quận Liên Chiểu, TP Đà Nẵng\n- Cơ sở Trường Đại học TDTT Đà Nẵng: số 44 đường Dũng Sĩ Thanh Khê,\nquận Thanh Khê, TP Đà Nẵng\nChi tiết tham khảo file dưới đây.\n( https://khoaluat.duytan.edu.vn/media/15809/gdqp-đợt-2.pdf )"
+            ]
+        },
+        {
+            "tag": "Đầu ra tiếng anh của trường đào tạo quốc tế bao nhiêu ?",
+            "patterns": [
+                "Trường mình toeic thì cần bao nhiêu điểm để tốt nghiệp được ạ?",
+                "Đầu ra tiếng anh ngành mình là bao nhiêu ạ?",
+                "Cách để miễn giảm thi khảo sát",
+                "Sinh viên đào tạo quốc tế có cần thi tiếng anh không ?",
+                "nên học eilts hay toeic?"
+            ],
+            "responses": [
+                "Để tốt nghiệp các tất cả sinh viên phải hoàn thành các chứng chỉ giáo dục quốc phòng, thể chất và đánh giá đạt trong kỳ khảo sát\ntiếng Anh, tin học của trường trong đó:\nTiếng anh:\nThi khảo sát Anh đầu ra: 1 năm tổ chức 4 đợt, không ôn thi chỉ đăng ký thi.\nCách đăng ký: nộp lệ phí thi khảo sát tại phòng Kế hoạch Tài chính (137 Nguyễn Văn\nLinh) \nNếu không muốn thi khảo sát thì có các cách sau để miễn khảo sát:\n- Có chứng chỉ Toeic 450 chứng chỉ Toeic 470 thời hạn cấp không quá 2 năm tính đến ngày xét công nhận tốt nghiệp;\n- Hoặc có chứng chỉ IELTS 4.5 thời hạn cấp không quá 2 năm tính đến ngày xét\ncông nhận tốt nghiệp;\n- Hoặc có chứng chỉ TOEFL 470 ITP 53 iBT (với thời hạn cấp không quá 2 năm tínhđến ngày xét công nhận tốt nghiệp.\n- Hoặc có bằng Cử nhân Anh văn.\n- Hoặc tham gia lớp luyện thi TOEIC 4 KỸ NĂNG tại trung tâm ngoại ngữ của Trường.\nĐề cương tham khảo đường dẫn sau:\n( https://kdtqt.duytan.edu.vn/Home/ArticleDetail/vn/40/6450 "
+            ]
+        },
+        {
+            "tag": "Có thể học các ngôn ngữ khác ngoài tiếng anh để ra trường không?",
+            "patterns": [
+                "Học tiếng nhật để xét tốt nghiệp được không ?"
+            ],
+            "responses": [
+                "Về ngôn ngữ thay thế cho khảo sát tiếng anh ra trường như nhật, hàn hay trung. Bạn nên liên hệ với Cố vấn học tập để biết thêm chi tiết"
+            ]
+        },
+        {
+            "tag": "Cách xét loại bằng tốt nghiệp ?",
+            "patterns": [
+                "Việc trao bằng là dựa vào điểm của thang 10 hay thang 4 vậy thầy.?",
+                "Show cho em list điểm quy đổi từ thang 10 ra thang 4 và thang chữ cũng như loại bằng sẽ nhận tương ứng.?",
+                "Xét tốt nghiệp có cần nộp học phí ?",
+                "Cách tính điểm gpa?",
+                "Cách đạt bằng tốt nghiệp các loại ?",
+                "Cách quy đổi điểm gpa 4 sang điểm 10 ?"
+            ],
+            "responses": [
+                "Xếp hạng học lực:\n- Hạng tốt nghiệp được xác định theo điểm trung bình chung tích lũy của toàn\nkhoá học (quy đổi về thang điểm 4,00), như sau:\na) Loại xuất sắc: Điểm trung bình chung tích lũy từ 3,60 đến 4,00;\nb) Loại giỏi: Điểm trung bình chung tích lũy từ 3,20 đến 3,59;\nc) Loại khá: Điểm trung bình chung tích lũy từ 2,50 đến 3,19;\nd) Loại trung bình: Điểm trung bình chung tích lũy từ 2,00 đến 2,49.\n- Chi tiết về cách quy đổi 10, 4 và cách tính điểm gpa, tham khảo link sau\n( https://bang2.duytan.edu.vn/Home/ArticleDetail/vn/64/1639/bang-quy-doi-cac-thang-diem-va-xep-loai-diem-hoc-phan )"
+            ]
+        },
+        {
+            "tag": "Điều kiện để nghiên cứu khoa học ?",
+            "patterns": [
+                "Làm thế nào để tham gia vào các dự án nghiên cứu hoặc các nhóm nghiên cứu?"
+            ],
+            "responses": [
+                "Nghiên cứu khoa học là hoạt động khoa học, nơi em cũng các bạn cùng nhau phát triển dự án mang tính học thuật và bảo vệ trước hội đồng nghiên cứu khoa học và hội đồng bảo vệ capstone. Để được hỗ trợ tốt nhất em nên liên hệ với giảng viên cốc vấn học tập hoặc mentor của em."
+            ]
+        },
+        {
+            "tag": "Chương trình CMU có yêu cầu thực tập không ?",
+            "patterns": [
+                "Quy trình và yêu cầu về việc thực hiện thực tập trong chương trình học?",
+                "Đầu ra có cần phải thực tập công ty ?"
+            ],
+            "responses": [
+                "Sau khi làm xong capstone 2 để được xét tốt nghiệp, sinh viên được yêu cầu minh chứng tham gia thực tập tại các công ty, hay doanh nghiệp"
+            ]
+        },
+        {
+            "tag": "Thông tin về sự kiện tốt nghiệp thế nào ?",
+            "patterns": [
+                "Hỏi cách đăng ký tham dự các buổi Lễ/sự kiện, các yêu cầu thời gian, địa điểm, trang phục…?",
+                "Tốt nghiệp mặ trang phục gì ?"
+            ],
+            "responses": [
+                "Đối với sinh viên đào tạo quốc tế lễ tố nghiệp sẽ vào tầm tháng 6, 12 sau khi hoàn thành ĐATN,\nNơi tổ chức: tòa nhà hội trường tầng 6, 03 Quang trung, Đà nẵng\nTuy có thể có sự thay đổi về thời gian, trang phuc hay địa điểm, vì vậy em nên theo dõi ở trang trường ĐTQT \nhttps://www.facebook.com/khoadaotaoquocte )\nHoặc liên hệ với CVHT để biết thêm chi tiết"
+            ]
+        },
+        {
+            "tag": "Cách thức, thời gian địa điểm nhận bằng, giấy khen, đồ được cấp phát,…?",
+            "patterns": [
+                "Lấy bằng ở đâu ?"
+            ],
+            "responses": [
+                "Thông tin chi tiết về các giấy khen, cấp đồ hoặc các hoạt động khác sẽ được cập nhật chi tiết trên fanpage của trường ĐTQT hoặc liên hệ Cố vấn học tập để biết được"
+            ]
+        },
+        {
+            "tag": "Làm sao biết mình bằng gì ?",
+            "patterns": [
+                "Cách quy đổi điểm duy tân ?",
+                "cách xét điểm duy tân ?"
+            ],
+            "responses": [
+                "Dựa trên điểm gpa của trên thang điểm 4, ta có thể xếp loại như sau\n- Hạng tốt nghiệp được xác định theo điểm trung bình chung tích lũy của toàn\nkhoá học (quy đổi về thang điểm 4,00), như sau:\na) Loại xuất sắc: Điểm trung bình chung tích lũy từ 3,60 đến 4,00;\nb) Loại giỏi: Điểm trung bình chung tích lũy từ 3,20 đến 3,59;\nc) Loại khá: Điểm trung bình chung tích lũy từ 2,50 đến 3,19;\nd) Loại trung bình: Điểm trung bình chung tích lũy từ 2,00 đến 2,49.\n- Hạng tốt nghiệp của những sinh viên có kết quả học tập toàn khoá loại xuất\nsắc và giỏi sẽ bị giảm đi một mức, nếu rơi vào một trong các trường hợp sau:\na) Có khối lượng của các học phần phải thi lại (học lại, học ghép) vượt quá 5% so\nvới tổng số tín chỉ quy định cho toàn chương trình;\nb) Đã bị kỷ luật từ mức cảnh cáo trở lên trong thời gian học.\n\nThông tin chi tiết về quy đổi điểm 4 sang 10 và thông tin khác.\ntham khảo đường dẫn dưới đây: https://bang2.duytan.edu.vn/uploads/66d25526-ee3a-4e91-94fd-775f76110164_bangquydoicacthangdiemvaxeploaidiemhocphan2016.pdf "
+            ]
+        },
+        {
+            "tag": "Quy trình nhận bằng tốt nghiệp tại Đại học Duy Tân là gì",
+            "patterns": [
+                "Tôi cần chuẩn bị những giấy tờ và thủ tục gì để nhận bằng tốt nghiệp?",
+                "Có cần phải đóng phí hoặc chi phí nào khi nhận bằng tốt nghiệp không?",
+                "Tôi có thể yêu cầu bằng tốt nghiệp bằng cách nào?",
+                "Ai là người liên hệ nếu tôi có thắc mắc hoặc vấn đề liên quan đến việc nhận bằng tốt nghiệp?",
+                "Tôi cần chuẩn bị những giấy tờ gì khi nhận bằng tốt nghiệp từ Đại học Duy Tân?",
+                "Yêu cầu cụ thể về các tài liệu và giấy tờ cần thiết để đảm bảo quá trình nhận bằng tốt nghiệp diễn ra một cách thuận lợi nhất là gì?",
+                "Tôi cần mang theo các giấy tờ gốc hay bản sao khi nhận bằng tốt nghiệp?",
+                "Làm thế nào để xác minh danh tính và thông tin của tôi khi nhận bằng tốt nghiệp?",
+                "Có các thủ tục đặc biệt nào mà tôi cần phải tuân theo khi nhận bằng tốt nghiệp không?",
+                "Tôi cần phải đóng phí hay chi trả bất kỳ khoản nào khi nhận bằng tốt nghiệp không?",
+                "Làm thế nào để biết thời gian và địa điểm nhận bằng tốt nghiệp?",
+                "Ai là người liên hệ hoặc địa điểm nào tôi có thể liên hệ nếu tôi có thắc mắc hoặc cần hỗ trợ khi chuẩn bị cho quá trình nhận bằng tốt nghiệp?",
+                "Tôi cần tuân theo bất kỳ hướng dẫn hay hạn chế nào khác khi nhận bằng tốt nghiệp không?"
+            ],
+            "responses": [
+                "Trường Đào tạo Quốc tế thông báo đến Sinh viên có tên trong danh sách công nhận tốt nghiệp tháng đó trên các nguồn như trang chủ hoặc diễn đàn (https://www.facebook.com/khoadaotaoquocte), tiếp theo bạn phải làm các thủ tục theo các bước sau để được nhận Bằng TN (gốc):\n\nBước 1: Liên hệ phòng KH-TC - 137 Nguyễn Văn Linh để làm thủ tục thanh toán ra trường (đóng lệ phí 900.000đ).\n\nBước 2: Đến Vp Đoàn Thanh niên - P.425 cơ sở K7/25 Quang Trung để xác nhận.\n\nBước 3: Đến Phòng Công tác HSSV - P.214 cơ sở K7/25 Quang Trung - để rút Hồ sơ sinh viên và ký xác nhận vào giấy thanh toán ra trường.\n\nBước 4: Đến Văn Phòng Trường ĐTQT - P.204G cơ sở 120 Hoàng Minh Thảo để ký xác nhận tốt nghiệp và nhận bằng.\nLink tham khảo (https://is.duytan.edu.vn/announcements/thong-bao-nhan-bang-tot-nghiep-dot-thang-12)\n\n"
+            ]
+        },
+        {
+            "tag": "Điều kiện và cách làm đơn phúc khảo bài thi?",
+            "patterns": [
+                "Làm sao để chấm lại bài thi ?",
+                "Em thấy điểm thi không đúng làm sao để chấm lại ?",
+                "Làm bài tốt mà giảng viên chấm sai thì làm sao ?"
+            ],
+            "responses": [
+                "Khi nhận được kết quả bài thi mà thí sinh cảm thấy không đúng với năng lực của mình thì thí sinh có thể làm đơn xin phúc khảo bài thi trong thời hạn 10 NGÀY kể từ ngày niêm yết kết quả của kỳ thi.\nSinh viên làm in đơn theo đường dẫn dưới đây và gửi qua Phòng đào tạo ở Tầng 2 Phan Thanh\nhttps://kdtqt.duytan.edu.vn/Home/ArticleDetail/vn/61/5991/mau-don-xin-xem-lai-ket-qua-bai-thi-ket-thuc-hoc-phan )"
+            ]
+        },
+        {
+            "tag": "Điều kiện và cách làm giấy tạm hoãn nghĩa vụ quân sự?",
+            "patterns": [
+                "Làm sao có thể bỏ qua nghĩa vụ quân sự",
+                "em bị phường kêu làm sao để tạm hoãn nghĩ vụ?",
+                "Em muốn làm đơn tạm hoãn quân sự làm sao đây?"
+            ],
+            "responses": [
+                "Điều kiện để tạm hoãn nghĩa vụ quân sự:\n- Đầu tiền đang trong thời gian thời gian đào tọa tại trường theo đúng khung trương trình như  4 năm cử nhân, 5 năm kỷ sư hoăc 6,7 năm đối với bác sỹ và dược\n- Không trong diện bỏ học \n- Đóng học phí và làm đúng vai trò của một sinh viên\nCách nhận giấy xác nhận: \n- Sinh viên vào MYDTU => chọn mục Đăng ký cấp giây xác nhận  => Đăng ký giấy xác nhận\n- Xem thời gian, đúng giờ đến Phòng Công tác sinh viên , Tầng 2 Quang trung để lấy và nộp lên phường để xác nhận"
+            ]
+        },
+        {
+            "tag": "Điều kiện và cách làm đơn học vượt ?",
+            "patterns": [
+                "Quy định và điều kiện để đăng ký vượt tín chỉ và số lượng tối đa có thể vượt?",
+                "Đăng ki học nhiều hơn số chỉ tối đa được không ?"
+            ],
+            "responses": [
+                "Điều kiện để học vượt:\n- Sinh viên phải đạt số điểm khá trở lên\n- Phải là sinh viên năm ba\nCác bước làm đơn \n- Bước 1: Sinh viên tải mẫu đơn về điền đầy đủ thông tin vào.\n- Bước 2: Sinh viên gửi đơn cho CVHT của mình để được tư vấn và xét duyệt, sau đó nộp đơn về VP Viện để được tiếp nhận và xử lý\nhttps://kdtqt.duytan.edu.vn/Home/ArticleDetail/vn/61/5980/mau-don-xin-phep-hoc-vuot "
+            ]
+        },
+        {
+            "tag": "Điều kiện và cách làm đơn chuyển ngành",
+            "patterns": [
+                "Học không nổi muốn đổi ngành thì làm kiểu gì ?",
+                "Hướng dẫn chuyển ngành học?",
+                "Năm 1 kì 2 có được chuyển ngành không?",
+                "Chuyển ngành học có mất thêm thời gian đào tạo không?",
+                "Tín chỉ môn học khi chuyển ngành?",
+                "Sau khi chuyển ngành thì có cần học lại các tín chỉ không?",
+                "Sau khi chuyển ngành thì có cần học lại các môn không?",
+                "Năm 1 kì 2 có được chuyển ngành không?",
+                "Có được đổi ngành không ?"
+            ],
+            "responses": [
+                "SV được xem xét chuyển ngành học khác nếu có đủ các điều kiện sau:\n- Đã tham dự kỳ thi tuyển sinh theo đề chung và có kết quả thi bằng hoặc cao hơn điểm trúng tuyển của ngành xin chuyển đến.\n- Không phải là SV năm thứ nhất hoặc năm cuối của thời gian thiết kế khóa học (xem chi tiết trong Quy chế đào tạo theo học chế - - tín chỉ của Trường).\n- Không trong thời gian bị kỷ luật từ cảnh cáo trở lên.\n- Đạt số tín chỉ tích lũy tối thiểu và có điểm trung bình chung tích lũy theo quy định.\n- Được sự chấp thuận của hai Trưởng khoa chuyển đến và chuyển đi.\n- Ngành chuyển phải năm trong chương trình như CMU, CSU hay PSU\nLưu ý: Thời gian nộp đơn chuyển ngành: 2 tuần đầu tiên của mỗi học kỳ.\nCác bước làm đơn chuyển ngành:\n- Bước 1: Sinh viên tải mẫu đơn về điền đầy đủ thông tin vào.\n- Bước 2: Sinh viên gửi đơn cho CVHT của mình để được tư vấn và xét duyệt, sau đó nộp đơn về VP Viện để được tiếp nhận và xử lý\nSau khi chuyển ngành sinh viên có thể chuyển điểm những môn có cùng mã môn\nhttps://kdtqt.duytan.edu.vn/Home/ArticleDetail/vn/61/5989/mau-don-xin-chuyen-nganh-hoc "
+            ]
+        },
+        {
+            "tag": "Điều kiện chuyển điểm và cách?",
+            "patterns": [
+                "Sau khi chuyển ngành thì có cần học lại các tín chỉ không?",
+                "Có cần học lại những môn đã học không sau khi chuyển ngành không ?",
+                "Quy định về việc chấp nhận các tín chỉ từ các khóa học trước đây?",
+                "Chuyển điểm xong có học lại không ?"
+            ],
+            "responses": [
+                "Để chuyển điểm giữa các môn thì môn đó phải có cùng mã môn\nVí dụ không thể chuyển như CMUCS301 và CS303\nQuy trình làm đơn chuyển điểm:\nước 1: Sinh viên tải mẫu đơn về điền đầy đủ thông tin vào.\nBước 2: Sinh viên gửi đơn cho CVHT của mình để được tư vấn và xét duyệt, sau đó nộp đơn về VP Viện để được tiếp nhận và xử lý.\nGhi chú: Trường hợp dịch bệnh, sinh viên chưa thể gửi đơn trực tiếp về VP Viện được thì chụp ảnh đơn của mình và thực hiện như sau:\nSau khi chuyển điểm thành công thì sv không cần học lại những môn đó\nhttps://docs.google.com/document/d/1C7fLWKQ2tFSV3oHBgaJ0j8WgGJ9et0T_/edit?usp=sharing&ouid=110232582114687422531&rtpof=true&sd=true )"
+            ]
+        },
+        {
+            "tag": "Điều kiện và cách học lại môn học ?",
+            "patterns": [
+                "Em rớt môn giờ làm sao ?",
+                "Cách đăng kí tín chỉ để học lại?",
+                "Khi bị rớt một tín chỉ thì làm sao để qua tín chỉ đó?",
+                "Làm thế nào để đăng ký học lại các môn không đạt kết quả?",
+                "Quy trình và điều kiện để thi lại một môn học?"
+            ],
+            "responses": [
+                "- Để đăng ký một môn học, SV phải thỏa các điều kiện về môn tiên quyết, môn học trước, môn song hành và các điều kiện ràng buộc khác.\n- Đăng ký những môn có trong khung chương trình\n- Tổng số tín chỉ đăng ký và số tín chỉ còn lại phải dưới 20+1 với HK thường\nVà dưới 12 với HK hè\nHướng dẫn đăng kí và hủy môn: \n- Bước 1: Tạo danh sách các môn muốn đăng ký trên excel\n- Bước 2: Kiểm tra những môn rớt môn tiên quyết do nhà trường đăng ký như OOP C++ và hủy tín chỉ đó\n- Bước 3: Vào cource tín và tìm các môn học cần đăng ký hoặc gặp giảng viên cố vấn đề lên danh sách\n- Bước 5: Đợi thời gian và đăng ký trên MYDTU\nLưu ý: Kế hoạch học lại, học cải thiện cho sinh năm 1, năm 2 và năm 3 được bố trí vào học kỳ hè. Kế hoạch học lại, học cải thiện sinh viên năm 4 có thể bố trí ngoài học kỳ hè, phụ thuộc vào kế hoạch tốt nghiệp."
+            ]
+        },
+        {
+            "tag": "Điều kiện và cách để đăng ký tín chỉ ?",
+            "patterns": [
+                "Cách làm đơn ghép lớp ?",
+                "Điều kiện và cách để đăng ký môn học ?",
+                "Cách làm đơn ghép lớp ?",
+                "Cách để đăng ký khi hết lớp ?",
+                "tất cả các môn đã được đăng kí hết và mình không còn môn để đăng kí?",
+                "Làm sao để đăng kí thêm tín chỉ khi bị trùng môn ?",
+                "cách đăng ký tín chỉ thêm?",
+                "Lớp đăng ký bị trùng làm sao đây"
+            ],
+            "responses": [
+                "Điều kiện đăng ký\n- Để đăng ký một môn học, SV phải thỏa các điều kiện về môn tiên quyết, môn học trước, môn song hành và các điều kiện ràng buộc khác.\n- Đăng ký những môn có trong khung chương trình\n- Tổng số tín chỉ đăng ký và số tín chỉ còn lại phải dưới 20+1 với HK thường\nVà dưới 12 với HK hè\nNếu thỏa mãn điều kiện\nCác bước làm đơn\n- Bước 1: Sinh viên tải mẫu đơn dưới đây về điền đầy đủ thông tin vào.\n- Bước 2: Sinh viên gửi đơn cho CVHT của mình để được tư vấn và xét duyệt, sau đó nộp đơn về VP Viện để được tiếp nhận và xử lý\nhttps://kdtqt.duytan.edu.vn/Home/ArticleDetail/vn/61/5983/mau-phieu-dang-ky-mon-hoc "
+            ]
+        },
+        {
+            "tag": "Điều kiện và cách làm đơn bảo lưu ?",
+            "patterns": [
+                "Để bảo lưu cần điều kiện gì không ?",
+                "Nhà có việc nên cần bảo lưu?",
+                "cách làm đơn bảo lưu ở đâu?",
+                "Khi nào bảo lưu được ?",
+                "Muốn đi du học nên cần bảo lưu kết quả ?"
+            ],
+            "responses": [
+                " Sinh viên được xin nghỉ học tạm thời và bảo lưu kết quả đã học trong các trường hợp sau\n- Được điều động vào lực lượng vũ trang;\n- Được cơ quan có thẩm quyền điều động, đại diện quốc gia để tham dự các kỳ thi, giải đấu quốc tế;\n- Bị ốm, thai sản hoặc tai nạn phải điều trị thời gian dài và có chứng nhận của cơ sở khám, chữa bệnh có thẩm quyền;\n- Vì lý do cá nhân khác nhưng đã học tối thiểu 01 học kỳ và không thuộc các trường hợp bị xem xét buộc thôi học hoặc kỷ luật.\nLưu ý:\n- Thời gian nghỉ học tạm thời vì nhu cầu cá nhân sẽ được tính vào thời gian học chính thức.\nNếu thỏa mãn các điều kiện:\n- Bước 1: Sinh viên tải mẫu đơn dưới đây về điền đầy đủ thông tin vào.\n- Bước 2: Sinh viên gửi đơn cho CVHT để nhận được hướng dẫn các bước, sau đó nộp đơn về VP Viện để được tiếp nhận và xử lý\nhttps://kdtqt.duytan.edu.vn/Home/ArticleDetail/vn/61/5985/mau-don-xin-bao-luu-ket-qua-hoc-tap \n\nLưu ý: hạn bảo lưu tối đa 2 năm, sau 2 năm sẽ xem như thôi học. Vì vậy sinh viên cần đăng ký nhập học"
+            ]
+        },
+        {
+            "tag": "Điều kiện và cách học lại ?",
+            "patterns": [
+                "Bây giờ muốn học lại thì phải làm sao ?",
+                "Cách đăng kí môn học bị rớt?",
+                "Cách làm đơn xin học lại ?",
+                "Học lại sau khi bảo lưu cần giấy tờ gì?"
+            ],
+            "responses": [
+                " Sinh viên được học lại trong trường hớp:\n- Học sinh xin học lại sau thời gian nghỉ nhưng còn trong độ tuổi quy định của từng cấp học. \nQuy trình:\nBước 1: Sinh viên tải mẫu đơn về điền đầy đủ thông tin vào.\nBước 2: Liên hệ Công an địa phương (phường, xã) nơi cư trú hoặc nơi công tác để xác nhận về tư cách công dân.\nBước 3: Nộp file gốc về trường ĐTQT(Phòng  201 -  HKN tòa nhà G) để tiếp nhận và xử lý đơn.\n\nhttps://kdtqt.duytan.edu.vn/Home/ArticleDetail/vn/61/5986/mau-don-xin-hoc-lai "
+            ]
+        },
+        {
+            "tag": "Cách đổi lớp sinh hoạt ?",
+            "patterns": [
+                "Cách chuyển lớp sinh hoạt ?",
+                "Có thể chuyển lớp sinh hoạt không?",
+                "Do lịch cấn nên em muốn, chuyển qua lơp sính hoạt khác ?"
+            ],
+            "responses": [
+                "Sinh viên cần gặp CVHT, để hướng dẫn làm đơn viết tay chi tiết để chuyển lớp sinh hoạt"
+            ]
+        },
+        {
+            "tag": "Điều kiện và cách đổi lớp học môn tiếng anh ?",
+            "patterns": [
+                "Cách đổi môn lập trình cơ sở?",
+                "cách học lớp môn khác ?",
+                "Muốn chuyển lớp học khác?",
+                "Làm  sao để chuyển lớp mã lớp khác ?",
+                "Em muốn học lớp với bạn làm sao để chuyển lớp ?"
+            ],
+            "responses": [
+                "Điều kiện đổi lớp:\n- Đầu tiên không phải sinh viên năm nhất\n- Đang trong 2 tuần hoc đầu tiên\n- Không bị trùng lịch học\nNêu tất cả đều kiện trên thỏa mạn:\n- Bước 1: Đầu tiền in 1 tờ đơn đường link đính kèm dưới đây\n- Bước 2: Gặp giảng viên cố vấn học tập để hướng dẫn chi tiết\nhttps://kdtqt.duytan.edu.vn/Home/ArticleDetail/vn/61/5981/mau-don-xin-chuyen-lop-hoc"
+            ]
+        },
+        {
+            "tag": "Lớp học khác gì lớp sinh hoặc ?",
+            "patterns": [
+                "Làm sao phần biệt lớp học hay sinh hoạt ?",
+                "CMUTPM, CMUTTT, CMUTAM là gì ?",
+                "Lớp sinh hoạt là gì ?",
+                "Lớp học là gì ?"
+            ],
+            "responses": [
+                "Lớp học sẽ là lớp em đăng kí tín chỉ và học các môn cùng với các sinh viên cùng hay khác lớp khác, nói đúng hơn mã môn\nLớp sinh hoạt là lớp cố vấn, cùng với những sinh viên cùng chuyên ngành\nCMUTPM: Công nghệ phần mềm\nCMUTTT: Hệ thống thông tin\nCMUTAM: Bảo mật mạng\nNhư lớp sinh hoạt: K28CMUTPM1, K27CMUTTT và lớp học CMUCS301 BIS"
+            ]
+        },
+        {
+            "tag": "Điều kiện và Cách làm đơn tạm hoãn thi và ghép thi ?",
+            "patterns": [
+                "cách làm đơn về các vấn đề không mong muốn ( lở buổi thi, ốm không đi thi dc vvv....)?",
+                "Giờ thi bị trùng làm đơn nào đây ?",
+                "bị trùng lịch thi làm sao để hoãn thi và thi giờ khác ?",
+                "viện xếp lịch cho bọn e bị trùng h phải làm sao ạ?",
+                "Em bị ốm làm sao để nghỉ thi ?",
+                "Nhà có việc đột xuất em làm đơn gì để thi đợt thi khác đây ?"
+            ],
+            "responses": [
+                "Trường hợp vì lý do cá nhân (trùng giờ thi, lý do sức khỏe, …), sinh viên không thể tham dự kỳ thi kết thúc học phần đúng tiến độ. Sinh viên phải đăng ký thi ghép các khóa khác tại P. Đào tạo vào các đợt thi gần nhất có học phần tổ chức thi.\nCác bước để làm đơn:\nBước 1: sinh viên hoàn thành học phí của môn xin hoãn, điền đơn xin hoãn thi (theo mẫu) kèm các giấy tờ cần thiết, gửi văn trường đào tạo quốc tế để phê duyệt.\nBước 2: sinh viên nộp đơn tại P. Đào tạo, kèm theo các giấy tờ, chứng từ cần thiết (giấy nhập viện, giấy chứng nhận điều trị bệnh lâu dài, giấy xác nhận của địa phương, …). P. Đào tạo xét duyệt đồng ý cho sinh viên hoãn thi nếu sinh viên thỏa điều kiện.\nBước 3: sinh viên theo dõi lịch thi của các đợt tiếp theo, nếu có tổ chức môn thi của môn xin hoãn thi, sinh viên mang theo đơn xin hoãn thi đã được duyệt đến phòng Đào tạo để đăng ký thi ghép\nhttps://docs.google.com/document/d/1Jr86LorFIMX4HqkwmQcvRWX4Tm9XUcPw/edit?usp=sharing&ouid=110232582114687422531&rtpof=true&sd=true \n"
+            ]
+        },
+        {
+            "tag": "Anh em học chung có miễn giảm học phí không?",
+            "patterns": [
+                " Em muốn đăng ký giảm học phí với điều kiện là hai anh em học chung trường thì chiều nay em lên làm được không ạ?",
+                "Em thuộc hộ nghoèo làm sao để miễn giảm học phí ?",
+                "Cách giảm học phí?",
+                "Có cách nào giảm học phí ngoài học bổng không?",
+                "Điều kiện để miễn giảm học phí ?",
+                "Làm đơn giảm học phí thì lên khoa gặp ai vậy cô?",
+                "Có hỗ trợ nào cho sinh viên có nhu cầu đặc biệt hoặc khuyết tật không?",
+                "cách làm đơn xin giảm học phí?",
+                "Điều kiện và cách làm đơn giảm học phí ?"
+            ],
+            "responses": [
+                "Trường sẽ miễn giảm học phí đối với những trường hợp sau:\n- Sinh viên có hộ khẩu ở phường xã đặc biệt khó khắn\n- Sinh viên thuộc hộ diện nghoèo\n- Sinh viên thuộc hộ diện nghoèo trong năm\n- Sinh viên song bằng tại trường\n- Sinh viên mồ côi gia đình hoặc mô côi (cha) mẹ trong diện nghoèo\n- Sinh viên bị khuyết tật\n- Có 2 anh em ruột cùng học tại trường\n- Con em ruột cán bộ đang công tác tại trường\nNếu em thuộc các diện trên đến Phòng Công tác Sinh viên để nộp hồ sơ xin miễn giảm. \nThông tin về miễn giảm học phí bạn có thể tham khảo vào đường link dưới đây,\n(  https://hssv.duytan.edu.vn/Home/ArticleDetail/vn/165/1944  )"
+            ]
+        },
+        {
+            "tag": "Làm sao để vay tiền theo diễn sinh viên",
+            "patterns": [
+                "cách làm đơn vay vốn sinh viên ?",
+                "làm sao để vay vốn ?"
+            ],
+            "responses": [
+                "Cách nhận giấy xác nhận: \n- Sinh viên vào MYDTU => chọn mục Đăng ký cấp giây xác nhận  => Đăng ký giấy xác nhận\n- Xem thời gian, đúng giờ đến Phòng Công tác sinh viên , Tầng 2 Quang trung để lấy"
+            ]
+        },
+        {
+            "tag": "Học lại có ảnh hưởng gì không ?",
+            "patterns": [
+                "Học lại có bị hạ bằng không ?",
+                "Rớt nhiều môn và đăng ký lại có ảnh hưởng gì đến điểm gpa không ?"
+            ],
+            "responses": [
+                "Nếu không đủ điều kiện qua môn hoặc điểm trung bình môn học chưa cao, sinh viên đại học có thể đăng ký học lại để cải thiện điểm số. Tuy nhiên, nếu học lại quá nhiều môn, sinh viên có thể sẽ bị hạ bằng\nVới khối lượng của các học phần phải học lại vượt quá 5% so với tổng số tín chỉ quy định cho toàn chương trình"
+            ]
+        },
+        {
+            "tag": "Điều kiện và cách làm đơn thôi học ?",
+            "patterns": [
+                "Nhà có chuyện đột xuất nên không thể đi học được ?",
+                "Muốn xin thôi học do không đủ tiền nên làm đơn gì ?",
+                "Làm sao để xin thôi học ?"
+            ],
+            "responses": [
+                "Bước 1: Sinh viên tải mẫu đơn về điền đầy đủ thông tin vào.\nBước 2: Sinh viên gửi đơn cho CVHT của mình để được tư vấn và xét duyệt, sau đó nộp đơn về VP Viện để được tiếp nhận và xử lý.\nLưu ý : Sinh viên xin thôi học vì lý do cá nhân, trừ trường hợp bị xem xét buộc thôi học hoặc xem xét kỷ luật. Những sinh viên này muốn quay trở lại học phải dự tuyển đầu vào như những thí sinh khác.\nhttps://kdtqt.duytan.edu.vn/Home/ArticleDetail/vn/61/5987/mau-don-xin-thoi-hoc "
+            ]
+        },
+        {
+            "tag": "Cách làm đơn mở lớp ?",
+            "patterns": [
+                "Làm sao để học khi chưa có lớp nào mở ?",
+                "Cần bao nhiêu sinh viên để mở lớp ?",
+                "tại sao đã viết đơn mở lớp mà không thể mở lớp ?",
+                "Học kì không có môn làm sao để có lớp ?"
+            ],
+            "responses": [
+                "Điều kiện để mở lớp: \n- Có chữ ký các sinh viên đăng ký lớp học tối thiểu 12 sinh viên\n- Có giảng viên tham dự giảng dạy\n- Trước thời gian bắt đầu học kỳ mới của năm\n- Các sinh viên không trùng lịch học\nNếu thỏa mãn các điều kiện:\n- Bước 1: Sinh viên tải mẫu đơn dưới đây về điền đầy đủ thông tin vào.\n- Bước 2: Sinh viên gửi đơn cho trường khoa để xác nhận , sau đó nộp đơn về VP Viện để được tiếp nhận và xử lý\nhttps://docs.google.com/document/d/1gWqWDyalXr-HFYJ6-Bn4M7Rtv53BXCaO/edit?usp=sharing&ouid=110232582114687422531&rtpof=true&sd=true "
+            ]
+        },
+        {
+            "tag": "BHYT nộp ở đâu ?",
+            "patterns": [
+                "Làm thế nào để đăng ký và sử dụng các dịch vụ bảo hiểm y tế ?",
+                "Lấy thẻ BHYT ở đâu ?",
+                "Khi nào thì lấy được thẻ BHYT ?",
+                "Nộp trễ tiền BHYT ở đâu ?"
+            ],
+            "responses": [
+                "Sau khi nhận được thông báo từ CVHT, lớp trường, bí thư lớp hoặc trên fanpage của trường. Sinh viên đến phòng  tài chính  nộp tiền 137 Nguyễn Văn Linh\nSau khi trường lập danh sách theo từng đợt trong vòng 3-4 tháng sinh viên có thể khám và chữa bệnh bằng BHYT thông qua CCCD và app VSSCI được tích hợp\nLưu ý : sinh viên không cần lên để lấy thẻ BHYT"
+            ]
+        },
+        {
+            "tag": "Làm sao để truyển trường",
+            "patterns": [
+                "Cách chuyển trường ra hà nội ?",
+                "Muốn chuyển đến trường làm sao đây ?",
+                "Đơn xin chuyển trường viết thế nào ?"
+            ],
+            "responses": [
+                "Điều kiên:\na) Không đang là sinh viên trình độ năm thứ nhất hoặc năm cuối khóa, không thuộc diện bị xem xét buộc thôi học và còn đủ thời gian học tập theo quy định tại khoản 5 Điều 2 của Quy chế này;\nb) Sinh viên đạt điều kiện trúng tuyển của chương trình, ngành đào tạo cùng khóa tuyển sinh tại nơi chuyển đến;\nc) Nơi chuyển đến có đủ các điều kiện bảo đảm chất lượng, chưa vượt quá năng lực đào tạo đối với chương trình, ngành đào tạo đó theo quy định hiện hành của Bộ Giáo dục và Đào tạo;\nd) Được sự đồng ý của hiệu trưởng cơ sở đào tạo xin chuyển đi và cơ sở đào tạo xin chuyển đến.\nNếu năm trong trường hợp trên:\nBước 1: Sinh viên tải mẫu đơn về điền đầy đủ thông tin vào.\nBước 2: Sinh viên gửi đơn cho CVHT của mình để được tư vấn và xét duyệt, sau đó nộp đơn về VP Viện để được tiếp nhận và xử lý.\nhttps://kdtqt.duytan.edu.vn/Home/ArticleDetail/vn/61/5988/mau-don-xin-chuyen-truong "
+            ]
+        },
+        {
+            "tag": "Cách làm đơn xem xét tham dự tốt nghiệp đtqt ?",
+            "patterns": [
+                "Đơn để xét tham dự kháo luận là gì ?",
+                "Cách làm đơn xét tham dự tốt nghiệp ?"
+            ],
+            "responses": [
+                "Mẫu đơn xét tham dự Tốt nghiệp (download file đính kèm) . (dành cho sinh viên đăng ký xét tham gia các hình thức tốt nghiệp như: thực tập, khoá luận, đồ án, thi tốt nghiệp,....)1. Đối với đơn tham dự tốt nghiệp (Khóa cũ về tham dự)\nCác bước để tham dự và xét tốt nghiệp:\nBước 1: Sinh viên tải mẫu đơn về điền đầy đủ thông tin vào (theo từng thể loại đăng ký).\nBước 2: Liên hệ Công an địa phương (phường, xã) nơi cư trú hoặc nơi công tác để xác nhận về tư cách công dân.\nBước 3: Nộp file gốc về VP trường ĐTQT (Phòng 201  - Hòa Khánh Nam tòa nhà G) để tiếp nhận và xử lý đơn.\n\n*** Sinh viên tốt nghiệp \"sớm\" chỉ cần điền vào đơn và nộp về VP Viện.\nLưu ý: sinh viên theo dõi trên fanpage trường để nộp đúng hạn vì con dấu chỉ có hiệu lực 1 tháng kể từ ngày đóng dấu.\nhttps://kdtqt.duytan.edu.vn/Home/ArticleDetail/vn/61/5984/mau-don-xet-tham-du-tot-nghiep "
+            ]
+        },
+        {
+            "tag": "Điều kiện và cách hủy môn đã đăng ký ?",
+            "patterns": [
+                "Cách hủy môn tín chỉ ?",
+                "Cách hủy lý thuyết môn hóa ?",
+                "Cách hủy thực hành môn hóa",
+                "cách rút tín chỉ ?",
+                "Làm sao để rút môn học ?"
+            ],
+            "responses": [
+                "Điều kiện hủy môn:\n- Trong 2 tuần đầu tiên của học kỳ\nCách làm đơn:\n- Sinh viên cam kết sau khi Rút môn học phải đảm bảo đủ số tín chỉ tối thiểu của học kỳ. \ncách làm đơn\nBước 1: Sinh viên tải mẫu đơn về điền đầy đủ thông tin vào.\nBước 2: Sinh viên gửi đơn cho CVHT của mình để được tư vấn và xét duyệt, sau đó nộp đơn về VP Viện để được tiếp nhận và xử lý.\nhttps://kdtqt.duytan.edu.vn/Home/ArticleDetail/vn/61/5982/mau-don-xin-rut-bot-hoc-phan-dang-ky "
+            ]
+        },
+        {
+            "tag": "Khi nào nhận được thông báo ?",
+            "patterns": [
+                "Sao tôi chưa nhận được thông báo ?",
+                "Có vấn đề gì với đơn từ tôi, mà tôi chưa nhận được thông báo ?"
+            ],
+            "responses": [
+                "Để biết được đơn từ của sv thành công không, sv phải kiểm tra trên mydtu, hoặc Phòng đào tạo sẽ thông báo đến sv hoặc giảng viên CVHT"
+            ]
+        },
+        {
+            "tag": "Thông tin về ký túc xá duy tân ?",
+            "patterns": [
+                "Trường có xây kí túc xá trong tương lai không?",
+                "Làm sao để đăng ký ktx ở duy tân",
+                "Kí túc xá Duy Tân có cung cấp các dịch vụ hỗ trợ sinh viên như tư vấn học tập, y tế, hoặc tâm lý không?",
+                "Kí túc xá Duy Tân có kế hoạch mở rộng hoặc xây mới trong tương lai không?",
+                "Kí túc xá Duy Tân cung cấp những tiện nghi và dịch vụ gì cho sinh viên?",
+                "Kí túc xá duy tân ở đâu ?",
+                "Để đăng ký ở kí túc xá Duy Tân, sinh viên cần chuẩn bị những giấy tờ và thủ tục gì?",
+                "Ký túc xá duy tân xa không ?"
+            ],
+            "responses": [
+                "Ký Túc xá sinh viên DMC 579 Đà Nẵng (với 2 cơ sở tại quận Liên Chiểu và quận Ngũ Hành Sơn) được đánh giá là một Ký Túc xá hiện đại với hệ thống các block chung cư 5 tầng được xây dựng đồng bộ với các công trình hạ tầng kỹ thuật khác Ngoài việc được sinh hoạt và học tập trong một môi trường chất lượng, khi đăng ký vào ở tại Ký Túc xá , sinh viên Đại học Duy Tân còn được quản lý nội trú bằng hệ thống tự động rất an toàn. Sinh viên Duy Tân cũng sẽ được tham gia các hoạt động xã hội và tìm kiếm cơ hội việc làm trong các hoạt động của Ký Túc xá.\n\nThông tin chi tiết liên hệ: 0914082679 (Thầy Nguyễn Thôi) hoặc 0905120909 (Thầy Nguyễn Văn Thái)\nhttp://ktxdn.vn "
+            ]
+        },
+        {
+            "tag": "Văn phòng của Đào tạo quốc tế ở đâu?",
+            "patterns": [
+                "Văn phòng của cmu ở đâu?",
+                "Khoa quốc tế nằm ở đâu vậy ạ?",
+                "Văn phòng psu xa không ?"
+            ],
+            "responses": [
+                "Tầng 2 tòa nhà G, cơ sở Hòa Khánh Nam, Hoàng Minh Thảo"
+            ]
+        },
+        {
+            "tag": "Làm sao để liên hệ thầy cô?",
+            "patterns": [
+                "Làm sao để biết được thông tin giảng viên",
+                "Thầy nam dạy môn toán số điện thoại là gì ?",
+                "Điểm thành phần bị sai làm sao để liên hệ giảng viên ?",
+                "Cách để xin giảng viên nghỉ",
+                "Cách nộp bài?",
+                "Tại sao điểm thi học kỳ hiện trễ vậy ?",
+                "Quy tắc về nghỉ học và làm thế nào để xin nghỉ khi cần thiết?",
+                "Cách nộp bài tập?",
+                "cách làm bài tập ?",
+                "Cách cập nhật điểm ?"
+            ],
+            "responses": [
+                "Thông tin giảng viên sẽ được đăng lên ở trang chủ của khoa hay viện giảng viên đó, phần NHÂN SỰ. \nNếu là sinh viên, bạn có thể truy cập vào phần đánh giá giảng viên để lấy thông tin hoặc đê cương môn học\nSinh viên liên hệ với giảng viên giảng dạy môn đó khi gặp vấn đề đến điểm số học tập, xin nghỉ, cách nộp bài hay các vấn đề trong qua trình giảng dạy"
+            ]
+        },
+        {
+            "tag": "Thư viện hoạt động lúc mấy giờ?",
+            "patterns": [
+                "Duy tân có thư viện nào",
+                "Cần gì khi đến thư viện?",
+                "Công dụng của thư viện trường ?"
+            ],
+            "responses": [
+                "Thư viện duy tân là nơi sinh viên đến học tập, mượn sách hay học nhóm. Thời gian mở quy định:\n7:00 AM - 9:00 PM từ thứ 2 đến thứ 7\n7:00 AM - 5:00 PM chủ nhật\n+ Cơ sở 254 Nguyễn Văn Linh (Tầng 6): Tài liệu đại cương, khối ngành kinh tế (quản trị kinh doanh, ngân hàng, kế toán,..)  và du lịch\n+ Cơ sở 03 Quang Trung (Phòng 601): Tài liệu đại cương và các khối ngành xây dựng, kiến trúc, y dược, điều dưỡng, khoa học xã hội & nhân văn, môi trường, công nghệ thông tin, điện tử viễn thông, ngoại ngữ,...\nĐể được sử dụng Thư viện, bạn đọc vui lòng mang theo Thẻ sinh viên. Đối với bạn đọc ngoài trường khi đến Thư viện xuất trình Thẻ CMND.Mọi chi tiết xin vui lòng liên hệ số điện thoại: 0511.3827111 (601); 0511.3650403 (105); Email: thuvienduytan@gmail.com"
+            ]
+        },
+        {
+            "tag": "Xem thông tin nghi học ở đâu?",
+            "patterns": [
+                "Thông tin về nghỉ học xem ở đâu ?",
+                "Thông báo nghỉ học do bão là cô hay trường đăng lên ạ?",
+                "Lấy thông tin nghỉ học do thiên tai như bão lũ lụt thì lấy ở đâu ?"
+            ],
+            "responses": [
+                "Thông tin về thay đổi lịch học do các sự kiện như thiên tai lũ lụ, lễ têt v.v. Các em theo dõi trên\nThông tin chi tiết liên hệ đến giảng viên giảng dạy môn đó hoặc CVHT\nhttps://www.facebook.com/khoadaotaoquocte "
+            ]
+        },
+        {
+            "tag": "Khi nào lịch mới thay đổi ?",
+            "patterns": [
+                "Khi nào có lịch học mới vậy ạ?",
+                "Lịch học khi nào lên lớp ?"
+            ],
+            "responses": [
+                "Sau khi kết thúc kết thúc kỳ thi giai đoạn hoặc, kết thúc thi kết thúc kỳ, trong 2 tuần, thì lịch sẽ được cập nhật"
+            ]
+        },
+        {
+            "tag": "Sinh viên năm nhất khi nào đi ngoại khóa hay thăm doanh nghiệp ?",
+            "patterns": [
+                "Trường có kế hoạch nào cho năm nhất đi thăm quan trải nghiệm các doanh nghiệp không?",
+                "Khi nào sinh viên năm nhất hay năm hai đi thăm có thể đi thăm doanh nghiệp ?"
+            ],
+            "responses": [
+                "Thông tin về các sự kiện hoạt động sẽ được CVHT thông báo hoặc theo dõi fanpage của trường \nhttps://www.facebook.com/khoadaotaoquocte"
+            ]
+        },
+        {
+            "tag": "Sinh viên có những hoạt động ngoại khóa và câu lạc bộ nào ?",
+            "patterns": [
+                "Có các cơ hội tham gia các hoạt động ngoại khóa và câu lạc bộ sinh viên không?",
+                "Có các cơ hội tham gia các hoạt động ngoại khóa và câu lạc bộ sinh viên không?",
+                "trường mình có câu lạc bộ gì không ạ?",
+                "Làm thế nào để tham gia vào các sự kiện và hoạt động cộng đồng của trường?",
+                "Cách tham gia các sự kiện ở trưởng ?",
+                "Cách tham gia các câu lạc bộ của trường ?",
+                "trường mình có câu lạc bộ gì không và cách tham gia?"
+            ],
+            "responses": [
+                "Duy tân có nhiều câu lạc bộ khác nhau, các em có thể liên hệ để đăng ký thông qua đường dẫn dưới đây.\nhttps://www.facebook.com/100064349243516/posts/8051289508276832/\nNgoài ra còn có các hoạt động sự kiện sinh viên có thể theo dõi và tham gia trên fanpage của trường:\n( https://www.facebook.com/khoadaotaoquocte )"
+            ]
+        },
+        {
+            "tag": "chatbot được tạo nên bởi ai",
+            "patterns": [
+                "Ai tạo chatbot",
+                "Mục đích, ý nghĩa tạo chatbot cố vấn",
+                "Tạo sao tạo ra chatbot"
+            ],
+            "responses": [
+                "Chatbot được tạo bởi thầy Võ Đình Hiếu thuộc trường Đào tạo quốc tế, khoa CNPM CMU.\nVới mục tiêu hỗ trợ giải đáp câu hỏi sinh viên và nâng cao công tác cố vấn học tập"
+            ]
+        },
+        {
+            "tag": "Điểm nổi bật chương trình CMU là gì ?",
+            "patterns": [
+                "Điểm nổi bật của chương trình CMU, của trường mình so với các trường khác là gì ạ ?"
+            ],
+            "responses": [
+                " Chương trình Công nghệ phần mềm CMU/An ninh mạng CMU là chương trình nhập khẩu của đại học Carnegie Mellon, top 4 đào tạo IT của Mỹ. Đây là chương trình đã được kiểm định quốc tế của Mỹ, điều này có nghĩa là bằng tốt nghiệp từ các chương trình này được quốc tế công nhận, thuận lợi cho em có thể đi học cao hơn ở nước ngoài.\n- Chương trình được tổ chức giảng dạy lớp học nhỏ, dưới 40 sinh viên 1 lớp (các chương trình đại trà là 70-100 sv/ lớp), lớp nhỏ giảng dạy chất lượng; được giảng dạy bởi đội ngũ giảng viên nhiều kinh nghiệm; được đào tạo từ CMU và các nước tiên tiến. GV tận tụy và tâm huyết.\n- Về chương trình học thì như thầy/cô đã nói ban đầu, chương trình CMU là chương trình chuyển giao quốc tế, tất cả chương trình, giáo án, phương pháp dạy được chuyển giao từ  Carnegiee Mellon chứ không phải chương trình của Việt Nam.  Chương trình học CMU rất thực tiễn, đào tạo hướng kỹ năng và khả năng thích ứng với thực tiễn, được đánh giá cao trên toàn thế giới"
+            ]
+        },
+        {
+            "tag": "Làm thế nào để truy cập tài nguyên thư viện và nền tảng học trực tuyến?",
+            "patterns": [
+                "Làm thế nào để đăng ký và sử dụng các tiện ích và dịch vụ trên campus?",
+                "Em muốn dùng các ưng dụng miễn phí do nhà trường cung cấp ?",
+                "Tài nguyên hay ứng dụng nào miễn phí ?"
+            ],
+            "responses": [
+                "Để truy cập vào được các ứng dụng hoặc nâng cao quyền hạn , các em đăng nhập vào email của DTU\nMYDTU => Ứng dụng. Hoặc liên hệ CVHT để biết thêm chi tiết"
+            ]
+        },
+        {
+            "tag": "Trường có phòng bàn tư vấn tâm lý không ?",
+            "patterns": [
+                "Có chương trình hỗ trợ tâm lý cho sinh viên không?",
+                "Tâm lý em bất ổn tư vấn với ai ?",
+                "Em bị vấn đề tâm lý nên liên hệ với ai ? "
+            ],
+            "responses": [
+                "Nếu có bất cứ vấn đề gì liên quan đến việc học hành giấy tờ, thông tin hoặc tấm lý sinh viên đầu tiên liên hệ với giảng viên cố vấn học tập"
+            ]
+        },
+        {
+            "tag": "Sinh viên học bao nhiêu kỳ ?",
+            "patterns": [
+                "Mình sẽ học bao nhiêu kỳ ?",
+                "Sinh viên sẽ phải học mấy năm ?"
+            ],
+            "responses": [
+                "Sinh viên trường đào tạo quốc té sẽ học tổng cộng 4 năm, 8 kì chính thức hay bắt buộc, không tính học kì hè.\nSố năm học sẽ dựa trên số tín chỉ cần hoàn thành trong năm."
+            ]
+        },
+        {
+            "tag": "Cách xem lịch thi ?",
+            "patterns": [
+                "Làm sao để cập Nhật lịch thi nhanh nhất và có thông báo luôn hay sao hả thầy ? Tại em vô đào tạo gần cuối ngày thi thì bị mất danh sách thi luôn thầy , khung giờ thì theo thứ tự mà vẫn không có luôn thầy",
+                "Lịch kiểm tra tìm ở đâu và khi nào có danh sách phòng thi?",
+                "Cách xem lịch thi, phòng thi?",
+                "Thông báo danh sách thi ở đâu?"
+            ],
+            "responses": [
+                "Để xem lịch thi và kiểm tra danh sách thì.\nLàm theo các bước sau:\nLịch thi:\nhttps://pdaotao.duytan.edu.vn/home/Default.aspx?lang=VN \n- Truy cập vào đường link trên để đến thông báo phòng đào tạo"
+            ]
+        },
+        {
+            "tag": "Ra trường thì có đi nghĩa vụ quân sự không ?",
+            "patterns": [
+                "Ra trường mà còn trong độ tuổi đi nghĩa vụ thì sao ạ?",
+                "Đi học có bị kêu nghãi vự quân sự không? ",
+                "Làm sao để miễn nghĩa vự quân sự ?",
+                "Ra trường có bị kêu nghĩa vụ quân sự không ?"
+            ],
+            "responses": [
+                " Sinh viên trong độ tuổi thực hiện nghĩa vụ quân sự thì không được miễn mà chỉ có thể tạm hoãn. Thời gian tạm hoãn được tính trong một khóa đào tạo như 4 năm hay 6,7 với y và dược. Không tính các trường hợp học lại và bảo lưu\n30 Luật Nghĩa vụ quân sự 2015:\nCông dân đủ 18 tuổi được gọi nhập ngũ; độ tuổi gọi nhập ngũ từ đủ 18 tuổi đến hết 25 tuổi; công dân được đào tạo trình độ cao đẳng, đại học đã được tạm hoãn gọi nhập ngũ thì độ tuổi gọi nhập ngũ đến hết 27 tuổi.\nChừ khi em nằm trong trường hợp sau:\na) Con của liệt sĩ, con của thương binh hạng một;\nb) Một anh hoặc một em trai của liệt sĩ;\nc) Một con của thương binh hạng hai; một con của bệnh binh suy giảm khả năng lao động từ 81% trở lên; một con của người nhiễm chất độc da cam suy giảm khả năng lao động từ 81 % trở lên;\nd) Người làm công tác cơ yếu không phải là quân nhân, Công an nhân dân;\nđ) Cán bộ, công chức, viên chức, thanh niên xung phong được điều động đến công tác, làm việc ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn theo quy định của pháp luật từ 24 tháng trở lên.\n"
+            ]
+        },
+        {
+            "tag": "Cách làm lại thẻ sinh viên?",
+            "patterns": [
+                "Mất thẻ sinh viên thì làm lại như thế nào?",
+                "Làm rơi thẻ sinh viên làm sao để làm lại ?",
+                "Em bị hư thẻ rồi làm sao để làm"
+            ],
+            "responses": [
+                "Để làm lại thẻ sinh viên các em đến Phòng công tác sinh viên tầng 2 Quang Trung để nộp tiền và làm lại thẻ"
+            ]
+        },
+        {
+            "tag": "Tìm thông tin nộp thẻ giữ xe ở đâu?",
+            "patterns": [
+                "cách nộp tiền thẻ giữ xe?",
+                "Khi nào nộp tiền giữ xe ?",
+                "Cách thanh toán tiên giữ xe ?"
+            ],
+            "responses": [
+                "Trường Đại học Duy Tân thông báo v/v triển khai hệ thống thanh toán giữ xe bằng thẻ SV:\n       ⏰ Thời gian áp dụng hệ thống giữ xe: bắt đầu từ ngày 25/03/2024\n       ⏰ Thời gian SV có thể nạp tiền vào tài khoản định danh cá nhân: từ ngày thông báo\n       ✅ Mức phí giữ xe: xe máy/xe máy điện 2.000 đồng/lượt, xe đạp miễn phí\n       ✅ Thời gian giữ xe: trong ngày từ 6h00 đến 21h00, không giữ xe qua đêm\n👉 Sinh viên xem hướng dẫn cách nạp tiền tại:\n( https://is.duytan.edu.vn/announcements/thong-bao-vv-huong-dan-nop-tien-giu-xe-vao-vi )"
+            ]
+        },
+        {
+            "tag": "Cách sử dụng mydtu ?",
+            "patterns": [
+                "Cách sử tối ưu mydtu?",
+                "Có tài liệu hướng dẫn sử dụng mdytu không ?"
+            ],
+            "responses": [
+                "Để sử dụng mydtu các em đăng nhập vào mydtu chọn mục => Hướng dẫn Sử dụng MyDTU"
+            ]
+        },
+        {
+            "tag": "Chương trình CMU có phải du học tại chỗ ?",
+            "patterns": [
+                "Bằng tốt nghiệp các ngành thuộc trường Đào tạo Quốc tế thì nước ngoài cấp phải không?",
+                "Bằng CMU có phải của nước ngoài ?"
+            ],
+            "responses": [
+                "Chương trình Công nghệ phần mềm CMU/An ninh mạng CMU là chương trình chuyển giao từ đại học Carnegie Mellon, top 4 đào tạo IT của Mỹ. Đây là chương trình đã được kiểm định quốc tế của Mỹ, điều này có nghĩa là bằng tốt nghiệp từ các chương trình này được quốc tế công nhận, thuận lợi cho em có thể đi học cao hơn ở nước ngoài."
+            ]
+        },
+        {
+            "tag": "Làm sao để lấy thông tin trường",
+            "patterns": [
+                "Fanpage của trường mình là page nào?",
+                "Thông tin về fan page trường",
+                "Thông tin về các đơn từ và cập nhật mới nhât ở đầu",
+                "Làm sao để theo dõi các sự kiện của trường",
+                "Hỏi về thời hạn đào tạo, thời hạn nộp các loại đơn từ, thời hạn các chương trình, thông báo, kế hoạch của nhà trường."
+            ],
+            "responses": [
+                "Thông tin về các sự kiện hoạt động sẽ được CVHT thông báo hoặc theo dõi fanpage của trường \nhttps://www.facebook.com/khoadaotaoquocte"
+            ]
+        },
+        {
+            "tag": "Làm sao để mua áo quần thể dục ? ",
+            "patterns": [
+                "Mua áo quần thể dục ở đâu ?",
+                "Thầy ơi muốn mua đồ thể dục thì mua ở đâu vậy thầy",
+                "Đồng phục trường mình có giá bao nhiêu?"
+            ],
+            "responses": []
+        },
+        {
+            "tag": "Trường có hỗ trợ tìm trọ không ?",
+            "patterns": [
+                "Muốn tìm trọ liên lạc với ai ?",
+                "Tìm trọ liên hệ với ai ở trường ?",
+                "Tìm trọ ở đâu đây"
+            ],
+            "responses": [
+                "Sinh viên mong muốn tìm trọ khi ngày đầu nhập học liên hệ với đoàn thanh niên duy tân để nhận hỗ trợ"
+            ]
+        },
+        {
+            "tag": "Cơ hội du học và thực tập nước ngoài ?",
+            "patterns": [
+                "Học các ngành thuộc Trường Đào tạo Quốc tế thì có được đi trao đổi ở nước ngoài không?",
+                "Trường có cung cấp cơ hội thực tập hoặc làm việc với các công ty công nghệ phần mềm hàng đầu không?",
+                "Cơ hội việc làm sau nào như thế nào ạ ?",
+                "Nên chọn công ty nào để thực tập trong ngành IT ?",
+                "Làm thế nào để đăng ký thực tập ngắn hạn hoặc chương trình thực tập nghề nghiệp?",
+                "Học xong ra trường có việc làm không? Và lương bao nhiêu?",
+                "học xong ngành công nghệ phần mềm thì nên chọn công ty nào để vào thực tập hiệu quả?",
+                "Có cơ hội thực tập hoặc tham gia dự án nghiên cứu không?",
+                "Sau khi tốt nghiệp DTU thì mình sẽ thực tập ở đâu?",
+                "Ngành Kỹ Thuật Phần Mềm học năm thứ mấy là có thể tự tin đi test thực tập ?",
+                "Ngành IT khi nào nên đi thực tập ?"
+            ],
+            "responses": [
+                "Trường Đại học Quốc tế thường duy trì mối quan hệ chặt chẽ với doanh nghiệp để tạo cơ hội việc làm và thực tập cho sinh viên năm 3 và năm 4. Dưới đây là một số cách mà trường có thể hợp tác với doanh nghiệp để cung cấp cơ hội cho sinh viên:\n\nTổ chức Job Fair và seminar phỏng vấn: Trường có thể tổ chức các sự kiện như Job Fair hoặc seminar phỏng vấn hàng năm, nơi các doanh nghiệp có thể tìm kiếm và tuyển dụng sinh viên tài năng. Đây là cơ hội tốt để sinh viên gặp gỡ và làm quen với các nhà tuyển dụng.\n\nChương trình thực tập quốc tế: Trường có thể hợp tác với các doanh nghiệp để cung cấp các chương trình thực tập quốc tế cho sinh viên. Các chương trình này có thể bao gồm cả thực tập và làm việc tại các công ty ở nhật hay hàn.\n\nHỗ trợ du học và làm việc nước ngoài: Trường có thể cung cấp thông tin và hỗ trợ cho sinh viên muốn du học hoặc làm việc ở nước ngoài. Điều này có thể bao gồm việc tư vấn về các chương trình du học, cơ hội thực tập hoặc việc làm, và các thủ tục xin visa.\n\nXây dựng mạng lưới liên kết: Trường có thể xây dựng mạng lưới liên kết với các doanh nghiệp trong và ngoài nước để tạo ra các cơ hội thực tập và việc làm cho sinh viên. Điều này có thể thông qua việc thiết lập các chương trình hợp tác, hội thảo và sự kiện networking."
+            ]
+        },
+        {
+            "tag": "Học phí ngành CMU thuộc trường đào tạo quốc tế là bao nhiêu ?",
+            "patterns": [
+                "Làm thế nào để biết tổng chi phí học phí của một năm học tại trường Đại học Duy Tân cho sinh viên tham gia chương trình CMU?",
+                "Trong số các chương trình đào tạo quốc tế tại Đại học Duy Tân, chương trình CMU có mức học phí nào là cao nhất?",
+                "Chi phí học phí cho một học kỳ của chương trình CMU tại trường Đại học Duy Tân là bao nhiêu?",
+                "Học phí ngành Công nghệ Phần mềm tại CMU là bao nhiêu?",
+                "Học phí của ngành Công nghệ Phần mềm ở Carnegie Mellon University là bao nhiêu?",
+                "Cần phải trả bao nhiêu tiền để học ngành Công nghệ Phần mềm tại CMU?",
+                "Chi phí học phí hàng năm cho sinh viên ngành Công nghệ Phần mềm ở CMU là bao nhiêu?",
+                "Học phí chương trình trình CMU ngành Hệ thống Thông tin là bao nhiêu?",
+                "Ngành Hệ thống Thông tin tại CMU có chi phí học là bao nhiêu?",
+                "Chi phí học của chương trình Hệ thống Thông tin tại CMU là bao nhiêu tiền?",
+                "Chương trình CMU của trường đào tạo quốc tế có học phí là bao nhiêu?",
+                "Trong trường đào tạo quốc tế, chương trình CMU có mức học phí là bao nhiêu?",
+                "Học phí của chương trình CMU tại trường đào tạo quốc tế là bao nhiêu?",
+                "Chương trình CMU của trường đào tạo quốc tế có chi phí học là bao nhiêu tiền?",
+                "Chi phí học của chương trình CMU tại trường đào tạo quốc tế là bao nhiêu?",
+                "Chương trình CMU tại trường đào tạo quốc tế có học phí cao nhất trong các chương trình khác không?",
+                "Mức học phí của chương trình CMU trong trường đào tạo quốc tế so với các chương trình khác như thế nào?",
+                "Bao nhiêu tiền là học phí cho chương trình CMU ngành Bảo mật Mạng?",
+                "Chi phí học của chương trình Bảo mật Mạng tại CMU là bao nhiêu?",
+                "Học phí của ngành Bảo mật Mạng trong chương trình CMU là bao nhiêu?",
+                "Ngành Bảo mật Mạng trong chương trình CMU có mức học phí là bao nhiêu tiền?",
+                "Trong các chương trình đào tạo của CMU, ngành Bảo mật Mạng có chi phí học là bao nhiêu?",
+                "Bảo mật Mạng là một trong những ngành của CMU có chi phí học là bao nhiêu?",
+                "Học phí của chương trình Bảo mật Mạng tại CMU so với các ngành khác như thế nào?",
+                "Học phí của ngành Hệ thống Thông tin trong chương trình CMU là bao nhiêu?",
+                "Hệ thống Thông tin là một trong những ngành của CMU có chi phí học bao nhiêu?",
+                "Trong số các ngành trong chương trình CMU, ngành Hệ thống Thông tin có mức học phí là bao nhiêu?",
+                "Hệ thống Thông tin tại CMU có chi phí học cao nhất trong các chương trình khác không?",
+                "Thông tin về các loại học phí, phí học kỳ và cách thanh toán ?",
+                "Học phí An ninh mạng CMU của trường?",
+                "Học phí chương trình trình CMU ngành hệ thống thông tin bao nhiêu ",
+                "Học phí của kỳ học ngành CMU bao nhiêu ?"
+            ],
+            "responses": [
+                "Chương trình CMU (Carnegie Mellon University) bao gồm 3 ngành tương ứng với mức học phí một kì không chênh lệch nhau. Cập nhật mới nhất K29 (2023-2024) là\n- Công nghệ phần mềm: 16,000,000 VND\n- Bảo mật mạng: 16,000,000 VND\n- Hệ thống thông tin: 16,000.000 VND\nThông tin chi tiết về học phí, tín chỉ dưới đây:\n( https://drive.google.com/file/d/1gFE3lRo-eTtYRQvMn_IxIsrjzHVLDxr7/view?usp=sharing )"
+            ]
+        },
+        {
+            "tag": "Ngoài học phí thì còn phí gì trong quá trình học không ?",
+            "patterns": [
+                "Các chi phí khi học tại trường ?",
+                "Ngoài học phí thì còn phí gì trong quá trình học ngành CMU không ?",
+                "Các phụ phsi đi kèm nào không ?",
+                "Học duy tân nhiều tiền không ?"
+            ],
+            "responses": [
+                "Khi nhập học vào trường em sẽ đóng học phí kì một năm một và trong qua trình học chỉ có đóng thêm  trang phục thể dục  và BHYT."
+            ]
+        },
+        {
+            "tag": "Học phí trường đào tạo quốc tế là bao nhiêu ?",
+            "patterns": [
+                "Chi tiết học phí ngành PSU?",
+                "trường có thu thêm học phí ?",
+                "Học phí của kỳ học bao nhiêu ?",
+                "Học phí của kỳ học bao nhiêu ?",
+                "CSU học phí bao nhiêu ?"
+            ],
+            "responses": [
+                "Trường đào tạo quốc tế bao gồm 3 chương trình\nCMU (Carnegie Mellon University) cập nhật mới nhất K29 (2023-2024) là\n- Công nghệ phần mềm: 16,000,000 VND\n- Bảo mật mạng: 16,000,000 VND\n- Hệ thống thông tin: 16,000.000 VND\nĐại học Penn State bao gồm 3 ngành:\n- Quản trị kinh doanh : 15.020.000\n-Tài chính - ngân hàng : 13.980.000\n- Kế toán kiểm toán :13.980.000\n California State University Fullerton :\n- Xây dựng dân dụng : 13.020.000\n- Kiến trức công trình : 13.020.000\nThông tin chi tiết về học phí, tín chỉ dưới đây:\n( https://drive.google.com/file/d/1gFE3lRo-eTtYRQvMn_IxIsrjzHVLDxr7/view?usp=sharing )"
+            ]
+        },
+        {
+            "tag": "Học phí có tăng theo từng năm không ?",
+            "patterns": [
+                "Có sự thay đổi về chi phí học của chương trình CMU tại trường đào tạo quốc tế không?",
+                "Chi phí học có thay đổi từ khi bắt đầu đến nay không?",
+                "Chi phí học có tăng lên hay giảm đi so với những năm trước đó?",
+                "Học phí ngành mình các khoá sau có tăng không ạ",
+                "Năm sau trường có tăng học phí không ạ?",
+                "Học phí có tăng theo từng kỳ, từng năm không?",
+                "Học phí trường mình có cố định không thầy?",
+                "Học phí ngành mình các khoá sau có tăng không ạ?"
+            ],
+            "responses": [
+                "Học phí trong cùng khóa đó sẽ không tăng , nhưng mỗi khóa sẽ có sẽ có sự chênh lệch riêng. Như khóa K26 và K28 sẽ có mức học phí riêng\nTuy nhiên mức tăng sẽ không quá 10%.\nThông tin chi tiết\n ( https://khoaxaydung.duytan.edu.vn/media/87217/ve-viec-thu-nop-hoc-phi-cua-truong-dai-hoc-duy-tan-thang-12-2022.pdf )"
+            ]
+        },
+        {
+            "tag": "Học phí có tăng không và cách kiểm tra thông tin học phí ?",
+            "patterns": [
+                "Vị trí của thông tin chi tiết về sự thay đổi học phí nằm ở đâu?",
+                "Có thể cho biết thông tin về học phí nằm vị  trí nào?",
+                "Trường có cung cấp thông tin chi tiết về sự thay đổi này không?",
+                "Có kế hoạch tăng học phí trong tương lai không và làm thế nào để sinh viên được thông báo trước?",
+                "Có những nguồn thông tin nào mà tôi có thể tra cứu để biết thêm về sự thay đổi trong chi phí học của trường?",
+                "Có thông tin cụ thể về sự thay đổi học phí này không?",
+                "Tôi nên tìm thông tin về sự thay đổi học phí ở đâu thông tin nào?",
+                "Tôi nên liên hệ với ai để biết thông tin chi tiết về sự thay đổi trong chi phí học?"
+            ],
+            "responses": [
+                "Để cập nhật về thông tin học phí các em vào MYDTU, phần HỌC PHÍ và HÓA ĐƠN để biết được số tiền phải trả.\nHoặc liên hệ với CVHT để biết thêm chi tiết.\nHọc phí trong cùng khóa đó sẽ không tăng , nhưng mỗi khóa sẽ có sẽ có sự chênh lệch riêng. Như khóa K26 và K28 sẽ có mức học phí riêng\nTuy nhiên mức tăng sẽ không quá 10%.\nThông tin chi tiết\n ( https://khoaxaydung.duytan.edu.vn/media/87217/ve-viec-thu-nop-hoc-phi-cua-truong-dai-hoc-duy-tan-thang-12-2022.pdf )"
+            ]
+        },
+        {
+            "tag": "Cách để thanh toán học phí",
+            "patterns": [
+                "Trường có chấp nhận các phương thức thanh toán nào cho việc nộp học phí?",
+                "Có hệ thống thanh toán trực tuyến nào được sử dụng để nộp học phí?",
+                "Trường có hỗ trợ thanh toán học phí trực tuyến không?",
+                "Có thể thanh toán học phí bằng tiền mặt tại truờng không?",
+                "Nộp học phí ở đâu và nộp bao nhiêu?",
+                "Cách nộp học phí?",
+                "Học phí có được nộp bằng tiền mặt kể từ kỳ 2 hay không?",
+                "Có chấp nhận thanh toán học phí bằng thẻ tín dụng hoặc thẻ ghi nợ không?"
+            ],
+            "responses": [
+                "1. Đối với Sinh viên các Khóa đang theo học tại Trường (ngoại trừ khóa K28 nhập học lần đầu theo Giấy gọi nhập học năm học 2022-2023):\n- Nộp học phí theo thông tin hướng dẫn tại myduytan của học viên, sinh viên\n- Chuyển khoản nộp học phí vào hệ thống các tài khoản Ngân hàng của Trường\n- Nộp học phí bằng tiền mặt trực tiếp tại hệ thống các Ngân hàng theo thông tin mục 2 bên dưới. (Lưu ý: Không nộp tiền mặt trực tiếp tại Trường).\n2. Thông tin Ngân hàng giao dịch học phí:\nHọc viên, sinh viên nộp học phí vào hệ thống tài khoản Ngân hàng của Trường theo các nội dung: Nộp tiền học phí Học kỳ ……cho sinh viên ……… Mã số SV: …………”\n- Đơn vị thụ hưởng: TRƯỜNG ĐẠI HỌC DUY TÂN\na/ Ngân hàng Nông nghiệp và phát triển nông thôn Việt Nam (Agribank)\n- Số tài khoản: 2007 2010 04621\n- Tại ngân hàng: Nông nghiệp & PTNT (Agribank) CN.Ông Ích Khiêm–Nam Đà Nẵng\nHoặc:\nb/ Ngân hàng TMCP Công thương Việt Nam (Vietinbank)\n- Số tài khoản: 1180 0018 1119\n- Tại ngân hàng: Ngân hàng TMCP Công Thương (Vietinbank) CN Đà Nẵng"
+            ]
+        },
+        {
+            "tag": "Có thể nộp học phí muộn không ?",
+            "patterns": [
+                "Nộp muộn học phí có thể là bao lâu?",
+                "Em chậm học phí 2 tháng có sao không?",
+                "Hạn cuối để nộp học phí?",
+                "Nộp muộn có bị gì không ?",
+                "Làm đơn xin gia hạn thời gian nộp học phí ?"
+            ],
+            "responses": [
+                "Để Kết thúc thời gian thu học phí theo quy định trong học kỳ, Ban Đào tạo Sau đại học để tạm đóng tài khoản myDTU của SV chưa nộp học phí cho đến khi SV hoàn thành nghĩa vụ. SV nộp học phí muộn trong vòng 7 ngày kể từ ngày hết hạn theo quy định sẽ bị trừ điểm rèn luyện trong học kỳ tương ứng.\nSV không đóng học phí sau 15 ngày kể từ ngày hết hạn nộp học phí theo quy định xem như tự ý bỏ học và phải nhận điểm F cho các học phần đã đăng ký.\nTrong trường hợp có hoàn cảnh đặc biệt SV có đơn xin nộp muộn học phí, trường có ý kiến đồng ý và Hiệu trưởng/Phó Hiệu trưởng phụ trách phê duyệt.\nLưu ý: sinh viên phải liên hệ với CVHT nếu có bất cứ vấn đề gì để làm đơn xin gia hạn học phí \n"
+            ]
+        },
+        {
+            "tag": "Xét học bổng theo hình thức nào?",
+            "patterns": [
+                "Trường sẽ có học bổng đối với những sinh viên nào?",
+                "Xét học bổng theo hình thức nào?",
+                "Số điểm tối thiểu để được học bổng là bao nhiêu ?",
+                "Học ở Duy Tân, có những loại học bổng nào, hằng năm có được xét học bổng cho sinh viên xuất sắc không?",
+                "Có những nguồn tài trợ và hỗ trợ tài chính nào cho sinh viên?",
+                "Làm thế nào để có học bổng?",
+                "Trường Đại học Duy Tân có cung cấp các học bổng và trợ cấp học phí cho sinh viên không? ",
+                "Quy định về chính sách học bổng và cách đăng ký?",
+                "Muốn đạt học bổng thì cần những điều kiện gì ạ ?",
+                "Điều kiện cần và đủ để có học bổng của DTU là gì vậy ạ?",
+                "Em cần chuẩn bị như thế nào để xin học bổng trong ngành này?"
+            ],
+            "responses": [
+                "Trường Đại học Duy Tân ban hành các mức học bổng cho những thí sinh trúng tuyển vào các chương Tiên tiến & Quốc tế của Trường Đại học Duy Tân năm 2024 như sau:\nCấp học bổng TOÀN PHẦN (100% học phí toàn khóa học) cho những thí sinh đăng ký vào học bất kỳ chuyên ngành nào của chương trình Tiên tiến & Quốc tế CMU, PSU, CSU, PNU có tổng điểm xét tuyển 3 môn từ Kỳ thi THPT năm 2024 đạt từ 25 điểm trở lên, cụ thể:\ngành Công nghệ Phần mềm chuẩn CMU: 5 Suất\nNgành An ninh Mạng chuẩn CMU: 5 Suất\nNgành Hệ thống Thông tin Quản lý chuẩn CMU: 5 Suất\nNgành Quản trị Kinh doanh chuẩn PSU: 5 Suất\nNgành Tài chính Ngân hàng chuẩn PSU: 5 Suất\nNgành Kế toán (&Kiểm toán) chuẩn PSU: 5 Suất\nNgành Xây dựng Dân dụng & Công nghiệp chuẩn CSU: 5 Suất\nNgành Kiến trúc Công trình chuẩn CSU: 5 Suất\n\nTrong quá trình học sẽ có những bổng đứng đầu khóa hoặc đứng đầu toàn trường. Không chỉ thế còn có các học bỗng khác được các công ty hay doanh nghiệp tài trợ.\n( https://duytan.edu.vn/tuyen-sinh/Page/SchollashipViewDetail.aspx?id=90 )"
+            ]
+        },
+        {
+            "tag": "Mydtu bị lỗi ?",
+            "patterns": [
+                "Đã nạp học phí cho trường nhưng vẫn bị khoá tài khoản do quên kèm mssv?",
+                "Nộp học phí trễ làm sao để mở mydtu ?",
+                "Nộp học phí trễ thì làm sao để mở lại tài khoản mydtu ạ?",
+                "Quên mật khẩu mydtu thì làm như thế nào ạ?",
+                "Mydtu bị khóa làm sao để mở ?",
+                "Mydtu cái số dư học phí còn thì e cần đóng học phí nữa k ạ?"
+            ],
+            "responses": [
+                "Có bất cứ vấn đề gì liên quan đến MYDTU các em liên hệ đến Phòng đào tạo tầng 2 209 Phan thanh, liên hệ thầy Quang Huy để xử lý"
+            ]
+        },
+        {
+            "tag": "Anh em học chung có miễn giảm học phí không?",
+            "patterns": [
+                " Em muốn đăng ký giảm học phí với điều kiện là hai anh em học chung trường thì chiều nay em lên làm được không ạ?",
+                "Trường có những chính sách hoặc chương trình nào nhằm hỗ trợ sinh viên có hoàn cảnh khó khăn không? Ví dụ như hỗ trợ cho chi phí ăn ở, sách vở, hay chi phí sinh hoạt hàng ngày?",
+                "Em có giấy tờ hộ nghoèo làm sao để làm đơn miễm giảm ?",
+                " Làm đơn xin giảm học phí như nào thầy?",
+                "Nhà trường có trợ cấp nào cho sinh viên không ?"
+            ],
+            "responses": [
+                "Trường sẽ miễn giảm học phí đối với những trường hợp sau:\n- Sinh viên có hộ khẩu ở phường xã đặc biệt khó khắn\n- Sinh viên thuộc hộ diện nghoèo\n- Sinh viên thuộc hộ diện nghoèo trong năm\n- Sinh viên song bằng tại trường\n- Sinh viên mồ côi gia đình hoặc mô côi (cha) mẹ trong diện nghoèo\n- Sinh viên bị khuyết tật\n- Con của thương binh liệt sĩ\n- Có 2 anh em ruột cùng học tại trường\n- Con em ruột cán bộ đang công tác tại trường\nNếu em thuộc các diện trên thì hãy liên hệ với CVHT để hướng dẫn làm giấy tờ .\nThông tin về miễn giảm học phí bạn có thể tham khảo vào đường link dưới đây,\n( https://hssv.duytan.edu.vn/Home/ArticleDetail/vn/165/1944 )"
+            ]
+        },
+        {
+            "tag": "Cách tín tiền số tín chỉ ?",
+            "patterns": [
+                "Một chỉ bao nhiêu ?",
+                "Số tiền phải trả một chỉ ?",
+                "Làm sao để tính tiền một chỉ",
+                "Số tín chỉ sinh viên phải trả là bao nhiêu ?"
+            ],
+            "responses": [
+                "Để tín số tiền phải trả cho mỗi chỉ:\nTiền mỗi chỉ = 16 / học phí mỗi kỳ\nChi tiết \n( https://drive.google.com/file/d/1gFE3lRo-eTtYRQvMn_IxIsrjzHVLDxr7/view?usp=sharing )"
+            ]
+        },
+        {
+            "tag": "Nộp học phí nhưng quên kèm theo thông tin cá nhân có bị sao không ?",
+            "patterns": [
+                "Quên ghi thông tin khi nôp học phí ?",
+                "Làm sao lấy hóa đơn học phí ?",
+                "Văn phòng nộp học phí ở đâu?",
+                "Cách nộp học phí trực tiếp",
+                "Em nộp thiếu làm sao để nộp tiếp ?"
+            ],
+            "responses": [
+                "Những vấn đề liên quan đến việc đóng học phí sinh viên lên hệ đến Kế hoạch - Phòng tài chính 137 Nguyễn Văn Linh "
+            ]
+        },
+        {
+            "tag": "Làm sao để đánh giá rèn luyện trên mydtu?",
+            "patterns": [
+                "đánh giá kết quả rèn luyện của sinh viên hk1 là mình tự làm hả?",
+                "Cách đánh giá điểm rèn luyện ?",
+                "Em không biết đánh giá điểm rèn luyện ở đâu ?",
+                "Đánh giá hoạt động là 10 hay 20 ?",
+                "Mục đánh giá như thế nào ?",
+                "Tham gia tình nguyện đánh giá bao nhiêu điểm rèn luyện ?"
+            ],
+            "responses": [
+                "Để đánh giá điểm rèn luyện, bạn cần vào tùy chọn CỐ VẤN HỌC TẬP trên Mydtu và chọn Đánh giá rèn luyện. Chi tiết cách tự đánh giá bạn truy cập vào link sổ tay sinh viên dưới đây và tải file hướng dẫn\n ( https://hssv.duytan.edu.vn/Home/ArticleDetail/vn/172/1879/)"
+            ]
+        },
+        {
+            "tag": "Khi nào mở lại đánh giá rèn luyện vậy ?",
+            "patterns": [
+                "Không đánh giá rèn luyện trong 1 học kì có mở lại không?",
+                "Bao giờ mình đăng kí bổ sung đánh giá rèn luyện lại vậy thầy",
+                "Thời gian mở đánh giá rèn luyện ?",
+                "Xem thời gian đánh giá bổ sung ở đâu?"
+            ],
+            "responses": [
+                "Thông tin về thời gian đánh giá điểm rèn luyện và bổ sung sẽ được thông báo trên FB của trường Đào tọa quốc tế ( https://www.facebook.com/khoadaotaoquocte )  hoặc thông báo giảng viên cố vấn."
+            ]
+        },
+        {
+            "tag": "Chuyện gì xảy ra khi không đánh giá điểm rèn luyện ?",
+            "patterns": [
+                "Tại sao mình phải đánh giá điểm rèn luyện",
+                " Quên đánh giá rèn luyện có bị gì không thầy?",
+                "Quên chấm điểm rèn luyện có ảnh hưởng điểm không ?"
+            ],
+            "responses": [
+                "Điểm hạnh kiểm kỳ đó sẽ xuống kém. Việc rèn luyện kém sẽ ảnh hưởng đến.\nĐầu tiên đến xét duyệt học bổng, miễn giảm học phí, xét khen thưởng,\nNgoài ra nếu, sinh viên bị xếp loại rèn luyện yếu, kém trong hai học kỳ liên tiếp thì phải tạm ngừng học ít nhất một học kỳ ở học kỳ tiếp theo và nếu bị xếp loại rèn luyện yếu, kém hai học kỳ liên tiếp lần thứ hai thì sẽ bị buộc thôi học.\nThông tin chi tiết trong file đính kèm ( https://hssv.duytan.edu.vn/Home/ArticleDetail/vn/163/2024 )"
+            ]
+        },
+        {
+            "tag": "Không khai báo ngoại trú đánh giá điểm rèn luyện được không ?",
+            "patterns": [
+                "Không khai báo ngoại trú có ảnh hưởng gì không ?",
+                "Không khai ngoại trú làm không chấm điểm rèn luyện được làm sao đây ?"
+            ],
+            "responses": [
+                "Bạn có thể đánh giá rèn luyện bỏ qua bước khai báo ngoại trú, tuy nhiên nhiên việc không khai báo sẽ ảnh hưởng đến điểm rèn luyện sinh viên cuối kỳ\nThông tin chi tiết trong file đính kèm ( https://hssv.duytan.edu.vn/Home/ArticleDetail/vn/156/2146/ )"
+            ]
+        },
+        {
+            "tag": "Khi nào mở khai báo ngoại trú ?",
+            "patterns": [
+                "Thời gian mở khai báo",
+                "Làm sao để biết thời gian chấm điểm rèn luyện và khai báo ngoại trú ?",
+                "Khi nào điểm rèn luyện mở ra ?",
+                "Khai báo ngoại trú ở đâu ?"
+            ],
+            "responses": [
+                "Thông tin về thời gian đánh giá điểm rèn luyện, khai báo ngoại trụ và bổ sung sẽ được thông báo trên FB của trường Đào tọa quốc tế ( https://www.facebook.com/khoadaotaoquocte )  hoặc thông báo từ giảng viên cố vấn."
+            ]
+        },
+        {
+            "tag": "Tích lũy điểm là gì?",
+            "patterns": [
+                "Làm sao để tích lũy điểm?",
+                "Điểm tích lũy là gi",
+                "Điểm trung bình tích lũy",
+                "Điểm quy đổi là gì?"
+            ],
+            "responses": [
+                "Điểm trung bình tích lũy (GPA - Grade Point Average) là điểm để đánh giá thành tích học tập của sinh viên trong suốt thời gian học tập tại Trường."
+            ]
+        },
+        {
+            "tag": "Cách để cải thiện điểm rèn luyện ?",
+            "patterns": [
+                "Khi em tham gia các hoạt động ngoại khác kiểu như hiến máu hay tham gia các cuộc thi cho trường mà vẫn không được cộng điểm thêm rèn luyyeenj làm cách nào để phản hồi để có thể cộng điểm rèn luyện ?",
+                "Làm sao nâng cao điểm rèn luyện ?"
+            ],
+            "responses": [
+                " Điểm rèn luyện sẽ được cập nhật trong thời gian tự chấm điểm , sinh viên với năng nổ tham gia các hoạt dộng, học tập tốt sẽ được tăng điểm, tham gia BHYT, chấm điểm đúng hạn. Chi tiết mỗi mục ở đường link dưới đây \n\n( https://hssv.duytan.edu.vn/Home/ArticleDetail/vn/163/1253 )"
+            ]
+        },
+        {
+            "tag": "Một học kỳ gồm bao nhiêu chỉ ?",
+            "patterns": [
+                "Một sinh viên được phép đăng ký bao nhiêu tin chỉ 1 kỳ ?",
+                "Tối đa bao nhiêu tín chỉ một sinh viên có thể đăng ký trong một kỳ học?",
+                "Giới hạn số tín chỉ cho mỗi kỳ học là bao nhiêu?",
+                "Có hạn chế gì về số lượng tín chỉ mà một sinh viên có thể đăng ký trong một kỳ học không?",
+                "Có bất kỳ hạn chế nào về số lượng tín chỉ mà một sinh viên có thể đăng ký không?",
+                "Số tín chỉ tối thiểu là bao nhiêu ?",
+                "Tôi có thể đăng kí 21 được không ?",
+                "Tôi có thể đăng kí trên 21 được không ?",
+                "Học kỳ hè đăng ký được tối đa bao nhiêu chỉ ?"
+            ],
+            "responses": [
+                "Số tín chỉ sinh viên đăng ký tối thiểu là 14 và tối đa là 20 + 1, bao gồm 20 chỉ các môn, với thêm 1 chỉ thể dục.\nRiêng kì hè đăng kí tối đa là 12 chỉ"
+            ]
+        },
+        {
+            "tag": "Học lại có ảnh hưởng đến điểm tổng không ?",
+            "patterns": [
+                "Điểm học lại sẽ tính như thế nào?",
+                "Em học lại môn điểm bị thấp hơn có làm sao không. Lấy điểm nào?"
+            ],
+            "responses": [
+                "Điểm của học phần học lại/cải thiện sẽ tính vào kỳ học lần thứ nhất, theo đó, hồ sơ của sinh viên sẽ được ghi nhận điểm của toàn bộ các lần học và điểm trung bình chung học tập/ trung bình chung tích lũy sẽ sử dụng điểm cao nhất trong tất cả các lần học của sinh viên."
+            ]
+        },
+        {
+            "tag": "Sinh viên cmu cần bao nhiêu chỉ để tốt nghiệp? ",
+            "patterns": [
+                "Tổng một khoá học bao nhiêu tín chỉ",
+                "Bao nhiêu chứng chỉ là tốt nghiệp vậy thầy"
+            ],
+            "responses": [
+                "Sinh viên chương trình tiên tiến CMU cần 163 tín chỉ để hoàn thành khóa học"
+            ]
+        },
+        {
+            "tag": "Những môn có lý thuyết và thực hành làm sao để học lại ?",
+            "patterns": [
+                "Mấy môn bị dính nhau làm thế nào để tách ra?",
+                "Rớt môn hóa có cần học lại lý thuyết không ?",
+                "Cách để hủy môn hóa lý thuyết ?",
+                "Cách xóa môn hóa thực hành ?",
+                "Cách để rút môn lý lý thuyết ?"
+            ],
+            "responses": [
+                "Khi học sẽ có những môn đại cương có 2 phần lý thuyết và thực hành như hóa, lý đại cương.\n2 phần này tách biệt nhau vì vậy sinh viên rớt phần nào thì học phần đó. \nSau khi đăng ký môn trên sv làm đơn rút học phần hay hủy môn để rút lý thuyết hoặc thực hành"
+            ]
+        },
+        {
+            "tag": "Điều kiện để hủy môn học hè ?",
+            "patterns": [
+                "Em đky hơi nhiều chỉ hè. bh em muốn làm đơn hủy bớt đko, hay bắt buộc học ạ.?",
+                "Lỡ đăng ký học hè mà không học được không ?",
+                "Lỡ đăng ký môn học hè bây giờ hủy được không ?",
+                "Sinh viên học bổng có cần nộp tiền học hè không ?"
+            ],
+            "responses": [
+                "Theo quy định nhà trường về học kỳ hè, sinh viên sau khi đăng ký học kì hè phải đi học và đóng học phí đầy đủ. \n- Sinh viên cần nộp học phí trong tuần đầu tiên sau khi hệ thống mydtu đã đóng và các lớp đã bắt - Mức học phí theo tín chỉ học kỳ hè không thay đổi so với Quy định thu học phí của năm học 2022-2023.\n- Sinh viên học bổng toàn phần/bán phần cần đăng ký và nộp học phí theo số tín chỉ đã đăng ký. Sau học kỳ hè, cần nộp đơn xin tất toán học phí kèm theo biên lai thu học phí trước thời gian quy định để xét tất toán học phí. Sinh viên học trả nợ và học cải thiện điểm học phần không được xét tất toán học bổng.\n\n- Nếu sinh viên nộp học phí không đúng quy định, sẽ chịu chế tài theo Quy định thu nộp học phí của trường."
+            ]
+        },
+        {
+            "tag": "Sau khi đăng ký có thể đổi môn bóng đá sang môn khác được không ?",
+            "patterns": [
+                " muốn đổi môn bóng đá sang môn khác đc không ?",
+                "Trường sắp xếp môn cho em là bóng đá mà em muốn đổi qua bóng chuyền được không ạ?"
+            ],
+            "responses": [
+                "Để đổi môn thể dục các em cần lên mydtu hủy môn và đăng ký lại môn khác.\nVới điều kiện các lớp em đăng kí còn trống và trong thời gian đăng kí ( 2 tuần đầu tiên )"
+            ]
+        },
+        {
+            "tag": "Học môn trước trong hè thì có cần phải học lại không ?",
+            "patterns": [
+                "Hè này em đăng kí môn Writing 2 mà kì 1 năm 2 có môn thì em có cần phải học không ạ?"
+            ],
+            "responses": []
+        },
+        {
+            "tag": "Thông tin về học hè ?",
+            "patterns": [
+                "học kì hè có bắt buộc không?",
+                "Lịch học hè như nào ạ?",
+                "Thời gian bắt đầu và kết thúc học kỳ hè?",
+                "Cách đăng ký học kỳ hè?",
+                "Kỳ hè trường mình có bao nhiêu tháng?",
+                "Năm nhất có thể đăng kí học hè được không?",
+                "Học hè là mình tự đăng kí phải không ạ?",
+                "Học kì hè thì tính số tín và số tiền học phí như nào?",
+                "Việc học hè sẽ đăng ký như thế nà",
+                "Cách nộp học phí học kỳ hè ?",
+                "Em muốn đăng ký 2,3 môn học triết học kỳ hè thì nộp tiền như nào?"
+            ],
+            "responses": [
+                "Mỗi năm sẽ bao gồm có 3 kỳ học bao gồm, kỳ xuân, kỳ thu và kỳ hè sinh viên các năm có thể đăng ký. Trong đó:\n- Học kỳ hè sẽ dạy trong vòng 2 tháng, từ tháng  6 -7 hàng năm.\n- Số tín chỉ tối đa học kỳ hè có thể đăng ký là 12 tín chỉ. Và sinh viên phải trả học phì theo từng chỉ một\n- Đây không phải học kì chính thức vì vậy không bắt buộc, \n- Với học kì hè sinh viên phải chờ thông báo thời gian, tự đăng ký và nộp tiền.\n* Thời gian đăng ký học kì hè sẽ được thông báo trên Fanpape của trường hoặc từ CVHT ."
+            ]
+        },
+        {
+            "tag": "Điều kiện và cách đăng ký môn học trên mydtu?",
+            "patterns": [
+                "Làm thế nào để đăng ký các lớp học và kiểm tra tình trạng đăng ký?",
+                "Cách đăng ký tín chỉ?",
+                "Cách đăng kí môn học?",
+                "Cách nào đăng ký tín chỉ nhanh hơn?",
+                "cách đăng kí tín chỉ và video hd,cách huỷ lớp học để đăng kí lớp học khác?",
+                "Cách để đăng ký tín chỉ?"
+            ],
+            "responses": [
+                "Điều kiện:\n- Sinh viên đã hoàn thành môn tiên quyết của môn đó\n- Lớp em đăng ký đang mở và còn chỗ trống\n- Số tín chỉ dư đủ với số tín chỉ môn yêu cầu\n- Đang trong 2 tuần đầu tiền của tuần học\nNếu điều kiện trên thỏa mãn thì các em làm bước sau đễ đăng ký nhanh chóng:\n- Bước 1: Tạo một file danh sách các lớp cần đăng ký và lưu mã lớp, đảm bảo các lớp không trùng nhau\n- Bước 2: Lên Mydtu đúng khoảng thời gian đăng ký dán mã phần tìm kiếm và đăng ký\nLưu ý: luôn có lớp dự phòng, cho trường hợp đã đầy, nếu có bất cứ vấn đề gì liên hệ với CVHT để hỗ trợ ghép lớp \nƯu tiên sinh viên năm 3- năm 4 và bị rớt môn tiên quyết\nĐường dẫn tìm kiếm tình trạng lớp học\nhttps://courses.duytan.edu.vn/Sites/Home_ChuongTrinhDaoTao.aspx \nVideo hướng dẫn đăng ký\nhttps://youtu.be/ewTAJ3aHDUw?si=EL9GBLaKc7LvwjYT )\n"
+            ]
+        },
+        {
+            "tag": "Điều kiện qua môn là gì ?",
+            "patterns": [
+                "Điểm bao nhiêu sẽ bị tính là rớt môn?",
+                "Làm sao để biết rớt môn ?",
+                "bao nhiêu điểm rớt môn ?",
+                "bao nhiêu điểm qua môn ?",
+                "Em cần bao nhiêu điểm nữa là qua môn?",
+                "Quên thi cuối kỳ có qua môn không ?"
+            ],
+            "responses": [
+                "Để được qua môn sinh viên phải thỏa mãn các điều kiện sau:\n- Tổng số điểm phải trên 40%\n- Phải tham gia kì thi cuối kỳ và đạt ít nhất trên một điểm\n- Không tiêu cực trong quá trình thi\n- Phải tham gia qua trình học tập\nNgược lại sinh viên sẽ bị đánh fail và yêu cầu học lại"
+            ]
+        },
+        {
+            "tag": "Học hè có lợi gì ?",
+            "patterns": [
+                "Có nên học hè không ạ?",
+                "Làm thế nào để ra trường sớm ạ?",
+                "Làm sao để ra trường nhanh hơn thời hạn?",
+                "Sinh viên học có thể tốt nghiệp sớm được không?",
+                "Học học kỳ hè có thể tốt nghiệp sớm không ?",
+                "Học thêm học kỳ hè thì vào có giảm số năm học không ạ? ",
+                "Rớt môn có thể ra trường đúng hạn không ?",
+                "Hè này em đăng kí môn Writing 2 mà kì 1 năm 2 có môn thì em có cần phải học không ạ?",
+                "Em vẫn chưa hiểu về việc học lại khi rớt môn, ý em là ví dụ em rớt 1 môn thì em sẽ không được học với các bạn nữa à thầy, và em có được ra trường đúng hạn khi em học môn đó vào kì hè không ạ. ?",
+                "Không học hè có tốt nghiệp đúng hạn không ?",
+                "Nếu không học hè thì hè nên học những gì để trau phát triển tốt hơn ạ?"
+            ],
+            "responses": [
+                "Học kỳ hè sẽ dạy trong vòng 2 tháng, từ tháng  6 -7 hàng năm.\nSố tín chỉ tối đa học kỳ hè có thể đăng ký là 12 tín chỉ.\nVì vậy để có thể ra trường sớm hoặc để ra trường đúng hạn đối với những sinh viên rớt môn thì nên đăng ký Học kỳ hè ?\nLưu ý: những môn trong hè đã học thì không cần học lại, do đó sinh viên cần hủy các môn đã học khi có lịch trùng HK xuân và thu"
+            ]
+        },
+        {
+            "tag": "Sinh viên phải học bao nhiêu học kỳ?",
+            "patterns": [
+                "Trường đăng kí hay sinh viên đăng ký tín chỉ ?",
+                "Một học kỳ có mấy giai đoạn ?",
+                "Một năm có bao nhiêu kỳ ?",
+                "Thông tin về đào tạo đại học duy tân.",
+                "trường đăng kí hay sinh viên tự đăng  kí tín chỉ ?"
+            ],
+            "responses": [
+                "Chương trình CMU, PSU VÀ CSU được đào tạo trong vòng 4 năm.\nMỗi năm bao gồm 3 kỳ học mỗi học kỳ 2 giai đoạn, 2 học kỳ chính thức và một học kỳ không bắt buộc\n- Học kỳ xuân: 16 tuần học và 2 tuần thi\n- Học kỳ thu: 16 tuần học và 2 tuần thi\n- Học kỳ hè : 8 tuần học và 2 tuần thi ( không bắt buộc)\nHK chính thức trường sẽ đăng ký tín chỉ theo đúng khung chương trình, HK hè sinh viên tự đăng ký"
+            ]
+        },
+        {
+            "tag": "Tại sao phải học hóa, lý toán, triết đại cương?",
+            "patterns": [
+                "Tại sao học đạo đức ?",
+                "Học lịch sử văn minh để làm gì ?",
+                "học đường lối để làm gì ?",
+                "Học IT sao phải học hóa",
+                "Tại sao phải học hoá?"
+            ],
+            "responses": [
+                "Trong quá trình học sẽ có những môn học do bộ giáo dục yêu cầu, đó là những môn  bắt buộc. Giúp cải thiện kiến thức tổng quan cho sinh viên"
+            ]
+        },
+        {
+            "tag": "Cách đăng kí môn học ?",
+            "patterns": [
+                "Tư vấn và hướng dẫn cách chọn môn học?",
+                "Nên đăng kí môn chuyên ngành nào trước ạ?",
+                "Cách chọn môn ?",
+                "Nên học môn nào trước đây ?",
+                "Môn nào học trước để tốt nghiệp sớm ?"
+            ],
+            "responses": [
+                "Đầu tiên các em vào MYDTU, chọn khung dự kiến để tham khảo lịch.\n- Chú ý các môn có mã CMU như CMUCS 303 , vì đó là môn chuyên ngành.\n- Tiếp theo kiểm tra các điều kiện tiên quyết mỗi môn để biết được là nên đăng ký môn nào trước\n- Vậy dựa trên năm giảng dạy, kì học và điều kiện tiên quyết để mở mông.\n- Có thể hỏi CVHT để được tư vấn rõ ràng hơn về lộ trình"
+            ]
+        },
+        {
+            "tag": "Cách để theo dõi tiến trình học tập ?",
+            "patterns": [
+                "Làm thế nào để đánh giá tiến trình học tập và làm thế nào để nhận phản hồi?",
+                "Tôi muốn biết điểm, tình trạng học tập ?"
+            ],
+            "responses": [
+                "Để theo dõi tiên dộ học tập các em vào MYDTU => học tập và xem các mục để biết thêm thông tin chi tiết"
+            ]
+        },
+        {
+            "tag": "Khám sức khỏe bận có thể khám chung lớp khác được không ?",
+            "patterns": [
+                "bạn học tpm mà nay khám sức khỏe nhưng có việc bận,Thế bạn chuyển sang khám chung với lớp mình k cô.?",
+                "Khám sức khỏe xuất khác đước không ?"
+            ],
+            "responses": [
+                "Sinh viên bận việc đột xuất có thể sắp xếp tham xuất khác để khám tổng quát được"
+            ]
+        },
+        {
+            "tag": "Có cần phải mặc áo trường qte khi học không thầy?",
+            "patterns": [
+                "trường có yêu thế nào về trang phục không ?",
+                "mặc váy đi học được không ?",
+                "Có thể đi dép đến trường"
+            ],
+            "responses": [
+                "yêu cầu trường trang phục gọn gàng, lịch sự theo đúng quy định (nam, nữ phải mặc Âu phục, không mặc áo thun, áo pul không có cổ, không mặc quần đùi, quần rách; đi giày hoặc dép có quai hậu. Nam thực hiện bỏ áo vào quần)."
+            ]
+        },
+        {
+            "tag": "Cách học tiếng anh",
+            "patterns": [
+                "Gợi ý cho tôi một vài web dạy free tiếng anh giao tiếp?",
+                "Lộ trình tự học tiếng anh",
+                "Nên học tiếng anh trung tâm hay tự học ?",
+                "Những web học tiếng online miễn phí",
+                "Học tiếng anh ở đâu?"
+            ],
+            "responses": [
+                "Để học tiếng anh đầu tiên cần xác định mình muốn đạt bao nhiêu 4.0 hay 6.0:\n- Tiếp theo lựa chọn phương thức học trung tâm hay tự học, đây là bài toán về chi phí và dịch vụ, bạn nên tham khảo những thầy cô\n-  Kiếm các web dạy miễn phí hoặc chia sẽ lộ trình \nBritishcouncil, Oxford Online English, bestmytest, Elllo\nhttps://langmaster.edu.vn/lo-trinh-tu-hoc-tieng-anh-tai-nha-hieu-qua-cho-nguoi-mat-goc "
+            ]
+        },
+        {
+            "tag": "Quy định và quy chế về gian lận trong phòng thi",
+            "patterns": [
+                "Quy định về chính sách phòng chống gian lận trong kỳ thi?",
+                "Gian lận bị gì không ?"
+            ],
+            "responses": [
+                "Tùy theo mức độ hành vi tiêu cực mà sẽ có hình phạt khác nhau:\nThí sinh trao đổi bài sẽ bị lập biên bản\nBị cảnh cáo sẽ trừ 50% điểm bài thi\nTước quyền học 2 năm nếu vi phạm kỷ luật\nthông tin chi tiết\nhttps://duytan.edu.vn/tuyen-sinh/Page/ArticleViewDetail.aspx?id=1217 "
+            ]
+        },
+        {
+            "tag": "Mua sách giáo khoa ở đâu ?",
+            "patterns": [
+                "Những cuốn sách tham khảo cho từng môn đc mua hay in ở đâu?",
+                "Thuê sách ở đâu ?"
+            ],
+            "responses": [
+                "Sách giáo khoa , tài liệu và sách tham khảo sv hãy hỏi giảng viên giảng dạy môn đó. Thông thường sẽ được bán hoặc cho thuê ở thư viện trường và những chỗ photocopy"
+            ]
+        },
+        {
+            "tag": "Cách liên hệ giảng viên cố vấn",
+            "patterns": [
+                "Làm thế nào để yêu cầu và nhận giúp đỡ từ giảng viên cố vấn?"
+            ],
+            "responses": [
+                "Các em liên hệ với giảng viên cố vấn qua zalo hoặc SĐT. \nLưu ý: trong thời gian hành chính 7 giờ đến 21 giờ\n- Lúc gọi hoặc nhắn tin, hãy giởi thiệu bản thân và nói lên vấn đề của mình"
+            ]
+        },
+        {
+            "tag": "Các thông tin khác ?",
+            "patterns": [
+                "Z có nghĩa là gì trong Genz?",
+                "Ck có nghĩa là gì trong Genz?",
+                "Ngôn ngữ Genz bạn biết chứ?",
+                "Vk có nghĩa là gì trong Genz?",
+                "Giảng viên cố vấn của lớp CMU-TPM5 k29 trường Duy tân là ai?",
+                "Mẹ và vợ rơi xuống sông, nếu bạn là tôi, bạn sẽ cứu ai?",
+                "Viết code c++: Nhập vector mà không cần nhập số lượng vector trước?",
+                " Trong thế giới IT ai là người giỏi nhất và ai là người đạt nhiều giải thưởng nhất?",
+                "Trong duy tân, sinh viên nào đang giữ nhiều giải công nghệ thông tin nhất?",
+                "Liệt kê 1000 từ tiếng anh thông dụng trong giao tiếp?",
+                "blockchain là gì?"
+            ],
+            "responses": [
+                "Thông tin này mình chưa được cập nhật, bạn có thể lên diễn đàn trường hoặc liên hệ CVHT để biết thêm thông tin"
+            ]
+        },
+        {
+            "tag": "Tìm phòng học theo ký hiệu trong thời khóa biểu như thế nào?",
+            "patterns": [
+                "Cách xem lịch học ?",
+                "mai có lịch thể dục mà lịch mydtu mới đổi qua màu xanh, vậy tụi em ở nhà học onl hay sao ?",
+                "Lịch học trên mydtu bị đổi qua màu xanh vậy học offline hay online ?"
+            ],
+            "responses": [
+                "Để xem buổi học chi tiết các em vào MYDTU  => LỊCH HỌC => chọn lịch học để biết thông tin chi tiết.\nMỗi buổi sẽ bao gồm: \n<Mã môn> | <Tên môn> | <Số phòng>, <Cơ sở chi nhánh> | <Thời gian>\nVí dụ: CMU-IS 401 BIS | Information System Applications | P. 502, Hòa Khánh Nam - Tòa Nhà G | 15:15-17:15\n\n- Màu vàng: những buổi học offline\n- Màu xanh: những buổi học online\n( https://drive.google.com/file/d/1MyK90ihiyT9-HcraHCM3w632V3NVoDI-/view?usp=sharing )"
+            ]
+        },
+        {
+            "tag": "Lộ trình dành cho backend bao gồm những gì ?",
+            "patterns": [
+                "Hướng đi của em là Backend thầy có thể cho em xin lộ trình để học không ạ?",
+                "Lộ trình dành cho backend bao gồm các phần nào?",
+                "Backend có những bước thực hiện cụ thể nào?",
+                "Để trở thành backend developer nên học gì ?",
+                "Nên học gì để trở thành một lập trình viên backend ?",
+                "Roadmap dành cho backend?",
+                "Trong ngành kỹ thuật phần mềm, có những lĩnh vực chuyên sâu nào mà em nên tìm hiểu và khám phá?",
+                "Ở lớp tụi em học kiến thức về code còn mong lung quá ko rõ về ngành thì lên năm 3 tụi e có đc đi sâu về ngành ( như học figma, html, mySQL,… )để tạo ra ứng dụng hoặc website ko ạ? "
+            ],
+            "responses": [
+                "Bạn có thể tham khảo lộ trình học backend thông qua link tham khảo sau \n( https://topdev.vn/blog/lo-trinh-cho-moi-nha-phat-trien-web/ )"
+            ]
+        },
+        {
+            "tag": "Lương nghề này cơ bản của ngành IT là bao nhiêu ?",
+            "patterns": [
+                "Ngành it có những vị trí gì ?",
+                "Học It bây giờ có thất nghiệp không ?",
+                "tuyển dụng cntt có còn cao như trước nữa không ?"
+            ],
+            "responses": [
+                "Để đánh giá đúng là ngành nghề và có cái nhìn tổng quan về IT , xem khảo sát về mức lương và nhu cầu tuyển dụng của ngành trong năm 2021 và 2023, qua đường link dưới đây của topCV:\nhttps://drive.google.com/drive/folders/1Ao3ckUpukxcO28HZoUKmdjT3PyqPvRjz?usp=sharing "
+            ]
+        },
+        {
+            "tag": "Nên chọn ngôn ngữ lập trình nào ?",
+            "patterns": [
+                "Em phân vân giữa 1 trong 5 môn lập trình chuyên ngành, thầy có thể đề xuất cho em môn nào nên chọn và so sánh chúng được không ạ?",
+                "Nghành mình nên quan tâm vào ngôn ngữ lập trình gì?",
+                "Ngôn ngữ lập trình nào tốt nhất "
+            ],
+            "responses": [
+                "Việc chọn ngôn ngữ lập trình phù hợp phụ thuộc vào mục tiêu nghề nghiệp cụ thể của sinh viên, dự án hoặc ứng dụng mà họ muốn phát triển. Dưới đây là một số ngôn ngữ lập trình phổ biến mà sinh viên có thể xem xét:\n\nPython: Python được coi là một trong những ngôn ngữ dễ học và đa năng nhất. Nó thích hợp cho nhiều ứng dụng như phát triển web, khoa học dữ liệu, trí tuệ nhân tạo, và tự động hóa.\nJavaScript: JavaScript là ngôn ngữ lập trình phía client phổ biến nhất cho phát triển web. Nó được sử dụng để tạo ra các trang web tương tác và ứng dụng web động.\nJava: là một ngôn ngữ lập trình mạnh mẽ và phổ biến, thường được sử dụng trong việc phát triển ứng dụng di động (Android), ứng dụng máy tính và các dịch vụ web.\nC++:là một ngôn ngữ lập trình mạnh mẽ và hiệu suất cao, thường được sử dụng trong việc phát triển phần mềm, trò chơi, và hệ thống nhúng.\nC#:là một ngôn ngữ lập trình phổ biến trên nền tảng .NET, thường được sử dụng để phát triển ứng dụng máy tính và trò chơi trên nền tảng Windows.\nĐối với sinh viên nên vững nên tảng lập trình vì vậy Java và C++ là 2 ngôn ngữ khởi đầu tốt nhất ."
+            ]
+        },
+        {
+            "tag": "Ngành hệ thông thông tin ra trường làm gì",
+            "patterns": [
+                "Học Hệ thống thông tin có code không ?",
+                "Ngành MIS làm gì đây ?"
+            ],
+            "responses": [
+                "Dưới đây là một danh sách các đầu việc phổ biến mà sinh viên ngành Hệ thống Thông tin có thể theo đuổi khi tốt nghiệp:\n\nQuản trị hệ thống và mạng (System and Network Administration)\nPhát triển ứng dụng và hệ thống thông tin (Application and Information System Development)\nQuản lý dự án công nghệ thông tin (IT Project Management)\nAn ninh thông tin (Information Security)\nQuản lý dữ liệu và phân tích dữ liệu (Data Management and Analysis)\nTư vấn công nghệ thông tin (IT Consulting)\nPhát triển phần mềm và ứng dụng di động (Software and Mobile App Development)\nQuản lý hệ thống thông tin y tế (Health Information Systems Management)\nQuản lý cơ sở dữ liệu (Database Management)\nHỗ trợ kỹ thuật và bảo trì hệ thống (Technical Support and System Maintenance)\nPhân tích hệ thống (System Analysis)\nQuản lý dịch vụ công nghệ thông tin (IT Service Management)\nPhát triển website và UX/UI Design (Website Development and UX/UI Design)\nQuản lý hệ thống ERP (Enterprise Resource Planning System Management)"
+            ]
+        },
+        {
+            "tag": "Ngành an ninh mạng ra trường ra trường làm gì",
+            "patterns": [
+                "An ninh mạng có ra làm hacker không ?",
+                "An ninh mạng có những việc nào ?"
+            ],
+            "responses": [
+                "Dưới đây là một danh sách các đầu việc phổ biến mà sinh viên ngành An ninh mạng có thể theo đuổi khi tốt nghiệp:\n\nChuyên viên bảo mật thông tin (Information Security Analyst)\nChuyên viên an ninh mạng (Network Security Specialist)\nChuyên viên phòng chống tấn công mạng (Cyber Threat Intelligence Analyst)\nChuyên viên phòng chống xâm nhập (Intrusion Detection Analyst)\nChuyên viên bảo mật ứng dụng (Application Security Engineer)\nChuyên viên phòng chống malware (Malware Analyst)\nChuyên viên phục hồi dữ liệu sau tấn công (Incident Response Analyst)\nKiểm thử bảo mật (Penetration Tester)\nChuyên viên tuân thủ và an ninh hệ thống (Compliance and Security Systems Specialist)\nQuản trị hệ thống an toàn (Security Systems Administrator)\nMỗi đầu việc này đều đòi hỏi những kỹ năng và kiến thức cụ thể, và tùy thuộc vào sở thích và mục tiêu nghề nghiệp của từng cá nhân, sinh viên có thể lựa chọn con đường phát triển sự nghiệp phù hợp nhất."
+            ]
+        },
+        {
+            "tag": "Làm sao để chọn ngành thích hợp ?",
+            "patterns": [
+                "Nên học ngành theo xu hướng hay ngành theo sở thích của mình?",
+                "Em đang rất là lơ lửng, không biết học có đúng ngành không?",
+                "Làm thế nào để em có thể xác định lựa chọn chuyên ngành phù hợp với mục tiêu sự nghiệp của mình?"
+            ],
+            "responses": [
+                "Chọn ngành học phù hợp là một quá trình quan trọng và đòi hỏi sự cân nhắc kỹ lưỡng. Dưới đây là một số bước bạn có thể thực hiện để chọn ngành thích hợp:\n\nTìm hiểu về bản thân: Đầu tiên, hãy tự đánh giá kỹ năng, sở thích, sở trường và mục tiêu nghề nghiệp của bản thân. Xác định những gì bạn thích, bạn giỏi và bạn muốn đạt được trong tương lai.\n\nNghiên cứu các ngành học: Khám phá các ngành học khác nhau và hiểu rõ về nội dung, cơ hội nghề nghiệp và yêu cầu của từng ngành. Tìm hiểu về các môn học, cơ hội thực tập và mức lương sau khi tốt nghiệp.\n\nThảo luận với người thân và chuyên gia: Hỏi ý kiến từ gia đình, bạn bè, giáo viên hoặc những người đã có kinh nghiệm trong ngành bạn quan tâm. Họ có thể chia sẻ thông tin và gợi ý quý báu.\n\nTham gia các sự kiện và hoạt động liên quan đến ngành: Tham gia các buổi tư vấn ngành, chương trình hướng nghiệp, hoặc các sự kiện của trường để hiểu rõ hơn về các ngành học và cơ hội nghề nghiệp.\n\nThực hiện thử nghiệm và khám phá: Nếu có thể, hãy tham gia các khóa học ngắn hạn, thực tập hoặc dự án dưới dạng tình nguyện trong các lĩnh vực mà bạn quan tâm. Điều này giúp bạn có cái nhìn thực tế và trải nghiệm trước khi quyết định chọn ngành học.\n\nCân nhắc tương lai: Xem xét về cơ hội nghề nghiệp và tiềm năng phát triển của ngành học trong tương lai. Lựa chọn một ngành có nhu cầu cao và tiềm năng phát triển sẽ giúp bạn có một sự nghiệp ổn định và phát triển."
+            ]
+        },
+        {
+            "tag": "Dùng máy tính kém mà học It thì làm thế nào ?",
+            "patterns": [
+                "không biết sử dụng máy tính thì phải học như thế nào ?",
+                "Làm sao để học tốt it?",
+                "Giờ năm 3 rồi không biết code thì có hướng nào trong ngành em đi được không thầy?",
+                "Đã năm 2, năm 3 code yếu  thì nên chọn ngành gì ?"
+            ],
+            "responses": [
+                "Dù bạn có máy tính kém hoặc không biết sử dụng máy tính, vẫn có thể học IT và phát triển kỹ năng lập trình. \nBạn có thể bắt đầu từ những kiến thức cơ bản về máy tính và lập trình thông qua các khóa học trực tuyến miễn phí trên các nền tảng như Khan Academy, Coursera, edX, và Udemy. \nThực hành là yếu tố quan trọng để nắm vững kỹ năng, vì vậy bạn nên tham gia vào các dự án mã nguồn mở và thực hành thường xuyên. Ngoài ra, tìm kiếm sự hỗ trợ từ giáo viên, bạn bè hoặc những người có kinh nghiệm trong lĩnh vực IT để được hướng dẫn và giúp đỡ. Đặt ra mục tiêu cụ thể và kiên nhẫn trong quá trình học tập. \nNếu bạn không tự tin về kỹ năng lập trình ở năm 3, bạn vẫn có thể tìm kiếm các ngành công nghệ thông tin khác như quản trị hệ thống mạng, quản trị cơ sở dữ liệu hoặc phân tích dữ liệu. Điều quan trọng là xác định mục tiêu nghề nghiệp của bạn và hướng nghề nghiệp mà bạn muốn theo đuổi."
+            ]
+        },
+        {
+            "tag": "Làm sao để trở thành một kỹ sư phần mềm chuyên nghiệp ?",
+            "patterns": [
+                "Tiêu chuẩn tốt nghiệp ngành cnpm mình như thế nào?",
+                "Sau này ra trường thì cần những yếu tố nào để có được công việc?",
+                "các yếu tố tối thiểu để có thể xin được việc?",
+                "có những kiến thức ngoài tầm giành cho công việc và với lượng kiến thức rộng vậy làm sao để có thể tự học 1 cách hiệu quả"
+            ],
+            "responses": [
+                "Để trở thành một kỹ sư phần mềm chuyên nghiệp và theo kịp sự phát triển công nghệ liên tục, bạn có thể tuân theo các bước sau:\nHọc tập và học hỏi liên tục: Đảm bảo bạn có một cơ sở kiến thức vững chắc về lập trình, cấu trúc dữ liệu, thuật toán và các ngôn ngữ lập trình phổ biến như Java, Python, C++, JavaScript, và Ruby. Theo dõi các xu hướng mới và tham gia vào các khóa học, hội thảo, và các nguồn tài liệu học tập khác để cập nhật kiến thức của bạn.\nThực hành và xây dựng dự án: Hãy thực hành thường xuyên bằng cách tham gia vào các dự án thực tế. Xây dựng các ứng dụng và dự án cá nhân để áp dụng những kiến thức bạn đã học và phát triển kỹ năng lập trình và giải quyết vấn đề.\nTham gia vào cộng đồng lập trình: Tham gia vào các cộng đồng lập trình như Github, Stack Overflow, Reddit hoặc các diễn đàn lập trình khác để kết nối và học hỏi từ các kỹ sư phần mềm chuyên nghiệp khác. Đây cũng là nơi để chia sẻ kiến thức của bạn và xây dựng danh tiếng trong cộng đồng\nPhát triển kỹ năng mềm: Kỹ năng giao tiếp, làm việc nhóm, quản lý thời gian và giải quyết vấn đề là rất quan trọng đối với một kỹ sư phần mềm chuyên nghiệp. Hãy đầu tư vào việc phát triển những kỹ năng này thông qua các khóa học, đào tạo và trải nghiệm làm việc.\nTheo dõi xu hướng công nghệ: Đọc báo cáo, tạp chí, và blog về công nghệ để hiểu về những xu hướng mới nhất trong lĩnh vực phần mềm. Theo dõi các công ty công nghệ hàng đầu và xem xét việc áp dụng những công nghệ mới vào dự án của bạn.\n\nTiếp tục học hỏi và phát triển: Công nghệ phần mềm liên tục thay đổi và phát triển, vì vậy việc học hỏi và phát triển bản thân là rất quan trọng để duy trì sự chuyên nghiệp và tiến bộ trong sự nghiệp của bạn."
+            ]
+        },
+        {
+            "tag": "Cách để học lập trình ở đại học hiệu quả ?",
+            "patterns": [
+                "Làm thế nào để có thể lập kế hoạch học tập hiệu quả cho mỗi học kỳ?",
+                "Phương pháp học hiệu quả ở đại học như nào?",
+                "cách học tập hiệu quả?",
+                "Cách học sao cho hiệu quả và cách phân bổ thời gian hợp lý để học?",
+                "Làm sao để được điểm cao trong môn học?",
+                "giả sử em ngu về ngôn ngữ A nào đó, nhưng em lại giỏi về ngôn ngữ B thì có được không hay là bắt buộc phải giỏi hết",
+                "Cần tài liệu học tốt lập trình?",
+                "làm sao để cải thiện tư duy logic để phù hợp với việc coding trong ngành công nghệ phần mềm này",
+                "Em cần phải học những môn học nào để trở thành một kỹ sư phần mềm?",
+                "Cách học hiệu quả?",
+                "Làm thế nào để em có thể cập nhật kỹ năng của mình với các công nghệ mới?"
+            ],
+            "responses": [
+                "Để học lập trình ở đại học hiệu quả, có một số phương pháp và cách tiếp cận sau đây:\nLập kế hoạch học tập: Đặt ra mục tiêu cụ thể cho mỗi học kỳ và tạo kế hoạch học tập để đạt được những mục tiêu đó. Phân chia thời gian một cách hợp lý giữa việc học, làm bài tập, và nghiên cứu thêm.\nThực hành thường xuyên: Lập trình là một kỹ năng thực hành. Dành thời gian hàng ngày để lập trình, giải quyết bài tập và xây dựng các dự án thực tế.\nHọc từ kinh nghiệm thực tế: Tham gia vào các dự án thực tế hoặc tạo các dự án các nhân là cách tốt để cải thiện\nCải thiện tư duy logic: Thực hành giải các bài toán logic và lập trình. Tham gia vào các cuộc thi lập trình để rèn luyện tư duy logic và khả năng giải quyết vấn đề như Devday, Hackerrank hoặc các bài tập ở môn lập trình khác.\nHọc tập đa dạng: Đối với việc trở thành một kỹ sư phần mềm, bạn cần học nhiều môn học khác nhau bao gồm lập trình, cơ sở dữ liệu, thiết kế phần mềm, kiến trúc hệ thống, và các kỹ năng mềm như quản lý dự án và giao tiếp.\nChấp nhận sự khác biệt: Nếu bạn không giỏi về một ngôn ngữ lập trình nhất định, hãy tập trung vào phát triển kỹ năng của mình trong các lĩnh vực khác. Trong It có nhiều ngành nghề yêu cầu bộ kỹ năng khác nhau, nên bạn có thể cải thiện song song giữa các kỹ năng như giao tiếp, tiếng anh để tạo lợi thế\nTìm tài liệu học chất lượng: Sử dụng các tài liệu học từ các nguồn uy tín như sách giáo trình bài giảng đại học (LTCS, OOP, FC1,FC@), web học miễn phí trực tuyến (howkteam, F8, code learn)\nCập nhật kỹ năng: Theo dõi các xu hướng công nghệ mới, tham gia vào các khóa học trực tuyến, hội thảo và đọc sách để cập nhật và mở rộng kiến thức và kỹ năng của bạn với các công nghệ mới.\nNhớ rằng, , IT là một lĩnh vực rộng với nhiều ngành nghề khác nhau, phát triển mỗi ngày, đều này là đặc điểm ngành. Nên sự chăm chỉ và kiên nhẫn tự học là chìa khóa để học tập hiệu quả trong lĩnh vực lập trình và công nghệ phần mềm."
+            ]
+        },
+        {
+            "tag": "Hướng đi trong ngành CNPM sau khi đi ra trường?",
+            "patterns": [
+                " Cô có thể chia sẻ thông tin về lộ trình sự nghiệp trong ngành công nghệ phần mềm không?",
+                "Em đang cân nhắc việc theo học sau đại học hoặc đi làm trực tiếp.",
+                "Nên đi làm hay học sau đại học"
+            ],
+            "responses": [
+                "Dưới đây là một số đầu việc phổ biến mà sinh viên ngành phần mềm có thể theo đuổi khi tốt nghiệp:\n\n- Lập trình viên\n- Kiểm thử phần mềm (Software tester)\n- Quản lý dự án phần mềm (Project manager)\n- Phân tích hệ thống (Systems analyst)\n- Kỹ sư DevOps\n- Chuyên viên an ninh mạng (Cybersecurity specialist)\n- Chuyên viên dữ liệu (Data analyst/scientist)\n- Game developer"
+            ]
+        },
+        {
+            "tag": "Trường có hỗ trợ cách làm cv hoặc đơn xin việc không ?",
+            "patterns": [
+                "Em có thể được hướng dẫn về cách xây dựng một hồ sơ cá nhân và đơn xin việc làm trong ngành kỹ thuật phần mềm không?",
+                "Có khóa học thêm giúp đỡ về kỹ năng học tập và làm thế nào để đăng ký?",
+                "Có các khóa đào tạo về kỹ năng giao tiếp và lãnh đạo không?"
+            ],
+            "responses": [
+                "Trường luôn hỗ trợ sinh viên các kỹ năng mềm trong quá trình học tập, như môn tiếng anh chuyên ngành.\nTrong quá trình còn có những buổi seminar, những cuộc thi cho sinh viên kết nối và chia sẽ kinh nghiệm xây dựng kĩ năng "
+            ]
+        },
+        {
+            "tag": "Yếu tiếng anh có theo nổi chương trình quốc tế không ?",
+            "patterns": [
+                "Em yếu tiếng Anh, có theo nổi chương trình quốc tế không?",
+                "Có giảng viên nước ngoài dạy không? Nếu có, mà yếu tiếng Anh thì học có được không?"
+            ],
+            "responses": [
+                "Chương trình CMU, PSU hay CSU, giáo án là tiếng anh, tuy nhiên giảng viên tùy theo mỗi lớp sinh viên đăng ký sẽ là giảng viên nước ngoài hoặc việt. Đây à cơ hội để cải thiện tiếng anh\nChương trình còn có các môn tiếng anh từ level 1 đến level 5 và môn chuyên ngành để  cải thiện dần tiếng anh chuẩn bị cho công việc sau này."
+            ]
+        },
+        {
+            "tag": "Học IT sau 35 tuổi có thất nghiệp không ?",
+            "patterns": [
+                "Thị trường bây giờ đang suy thoái đúng không ?",
+                "Có cách nào học IT mà không già không thầy, chớ mặt em già quá rồi?",
+                "Sau 35 tuổi có thất nghiệm",
+                "Cơ hội việc làm của ngành IT sau khi ra trường sẽ như thế nào khi mà AI ngày càng phát triển?"
+            ],
+            "responses": [
+                "Công nghệ thông tin vẫn là một thị trường tuyển dụng nhộn nhịp với nhiều công việc và công nghệ phát triễn mỗi ngày. Với tính linh hoạt và đa dạng trong công việc nên được đánh giá cao.\nVì vậy đây cũng là ngành có tính cạnh tranh cao với sự thay đổi liên tục. Đó lí do tại sao sau 35 tuổi khó để một người có thể tìm việc, lí do chủ yếu do ít thời gian để học cái mới .\nĐể tránh việc bị thụt lùi sinh viên nên học vững nên tảng  để có thể thích ứng với sự thay đổi và chăm chỉ cập nhật"
+            ]
+        },
+        {
+            "tag": "phan_nan",
+            "patterns": [
+            "Em không hiểu à?",
+            "Không trả lời câu hỏi của tôi à?",
+            "Tôi hỏi gì thì trả lời đó đi!",
+            "Trả lời tôi đi!",
+            "Bạn không hiểu câu hỏi à?",
+            "Ngu quá"
+            ],
+            "responses": [
+            "Xin lỗi em nhiều, chương trình đang trong quá trình phát triển. Đội ngũ phát triển sẽ cố gắng nhiều hơn nữa."
+            ]
+        },
+        {
+            "tag": "cam_on",
+            "patterns": [
+            "Cảm ơn Thầy/Cô ạ",
+            "Cảm ơn chương trình",
+            "Cảm ơn nhé!",
+            "Thanks",
+            "Thank you!",
+            "Cám ơn",
+            "Thăn kiu"
+            ],
+            "responses": [
+            "Cảm ơn em đã tin tưởng sử dụng chương trình này. Chúc em học tập tốt!"
+            ]
+        }
+    ]
+}

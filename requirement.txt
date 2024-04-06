@@ -1,0 +1,11 @@
+bottle
+fuzzywuzzy
+keras
+underthesea
+sklearn
+numpy
+streamlit==1.13
+tensorflow
+opencv-python
+gensim==3.8.3
+nltk
