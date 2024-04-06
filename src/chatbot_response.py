@@ -1,23 +1,12 @@
-import nltk
-from underthesea import word_tokenize
 import tensorflow as tf
-import keras
 import json
-from tensorflow.keras.utils import to_categorical
-import pandas as pd
 import numpy as np
 from tqdm import tqdm
-from keras.preprocessing.text import Tokenizer
 tqdm.pandas(desc="progress-bar")
-from gensim.models import Doc2Vec
-from sklearn.model_selection import train_test_split
 from keras.preprocessing.sequence import pad_sequences
-from gensim.models.doc2vec import TaggedDocument
 import re
-import matplotlib.pyplot as plt
 import pickle
 import random
-# nltk.download()
 
 MAX_SEQUENCE_LENGTH = 43
 

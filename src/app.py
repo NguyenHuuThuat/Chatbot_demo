@@ -1,14 +1,7 @@
 import time
 import streamlit as st
-from chatbot_response import classify, response
-from PIL import Image
-import pandas as pd
-import pickle
-import cv2
+from chatbot_response import classify
 from datetime import datetime
-
-import xlsxwriter
-
 from openpyxl import Workbook, load_workbook
 
 # Function to log the conversation
